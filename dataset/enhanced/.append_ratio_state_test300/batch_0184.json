@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:29",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A marble stair hall hangs over a moonlit abyss, yet every landing aligns with a precise hidden grid. Arches repeat in diminishing scale, then reconnect above themselves through impossible but readable loops, like a palace folded through a dream without breaking its structure. On the near side, a long reflecting canal runs along the floor and continues vertically up a wall as if gravity changes by corridor. Farther across, suspended bridges link doorways cut into freestanding facades. Pale banners drift upward, silver dust falls sideways, and a distant rose window glows through layered mist.",
+    "length": 642
+  },
+  {
+    "id": "test:Fantasy and Surrealism:30",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. At the center of a vast cobalt sky, a tiered citadel rises from a chain of floating islands, each island stacked by size and function like a believable civic plan suspended in air. Lower terraces hold gardens and cisterns edged with white stone, midlevels carry marketplaces under tensile awnings, and the summit supports an observatory crowned by brass rings and a glowing astrolabe. Thin aqueducts pour streams into open space where the water turns to luminous vapor. Migrating birds weave between bridges, cloud shadows drift across the masonry, and tiny lanterns define the vertical depth.",
+    "length": 609
+  },
+  {
+    "id": "test:Fantasy and Surrealism:31",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A narrow black river winds through a canyon of translucent stone, where cliff faces contain entire forests embedded inside them like preserved seasons. Amber trees grow sideways from vertical walls, their roots shining through crystal strata, while below, the river reflects a second sky that does not exist overhead. In the middle distance, monolithic doors stand alone on salt flats, opening onto pure white light that spills in geometric beams across the terrain. Beyond the canyon, the land breaks into terraces descending toward a star-filled void, with each ledge marked by evenly spaced pillars and drifting pollen-like sparks.",
+    "length": 651
+  },
+  {
+    "id": "test:Fantasy and Surrealism:32",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A sleeping city of ivory blocks and circular courtyards extends across a calm lavender sea, but its streets fold back into themselves through elegant, consistent shortcuts that obey a dream logic rather than normal distance. Foreground colonnades cast long striped shadows over tiled plazas scattered with oversized hourglasses, each holding suspended sand. Farther along, a row of townhouses rises upside down beneath a shared bridge, their chimneys exhaling downward into the water without disturbing it. At the horizon, a square sun shines through thin rain, and every wet surface returns a slightly delayed reflection, as if time itself has shallow depth.",
+    "length": 677
+  }
+]

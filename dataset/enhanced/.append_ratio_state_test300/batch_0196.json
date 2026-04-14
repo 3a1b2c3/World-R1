@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:41",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A sleeping chamber shaped like the inside of a giant seashell opens onto an impossible palace suspended above a moonlit abyss. In the near space, a bed of polished black stone rests beneath hanging curtains made of water that never fall. Beyond the threshold, stairways fold upward and then continue underneath themselves, connecting terraces lined with cypress trees growing from upside down planters. Farther away, bridges link floating cloisters, bell towers, and mirrored courtyards, each scaled consistently and lit by a pale dawn rising from below, revealing a vast, ordered dream hidden inside the impossible architecture.",
+    "length": 646
+  },
+  {
+    "id": "test:Fantasy and Surrealism:42",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. At the edge of a floating citadel, a marble observatory stands on a circular platform suspended by chains that descend into clouds instead of anchoring above. Nearby islands drift at measured intervals, each carrying gardens, domed libraries, and narrow aqueducts pouring silver streams into empty air where the water becomes mist before reaching lower terraces. Behind them, an enormous city hangs in layers: bridges stitched between broken cliffs, stacked plazas, clock towers, and luminous beacons. The arrangement remains precise and navigable, with believable distances, cast shadows, and repeating structural logic across the skyborne metropolis.",
+    "length": 670
+  },
+  {
+    "id": "test:Fantasy and Surrealism:43",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A vast canyon opens through a forest of stone trees whose trunks split into archways and staircases, creating a landscape that feels both natural and designed. On the nearest ledge, pale grass bends around smooth basalt monoliths etched with glowing symbols. Across the chasm, waterfalls descend upward into a suspended lake, while lower terraces recede into a velvet void crossed by narrow land bridges and root-like colonnades. Shafts of amber light emerge from beneath the ground, illuminating drifting pollen and revealing layered depth: ridges, ravines, hanging groves, and distant cliffs arranged with clear, physical continuity despite the impossible world.",
+    "length": 683
+  },
+  {
+    "id": "test:Fantasy and Surrealism:44",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. In the center of a circular courtyard, a quiet fountain spills sand upward into a hovering ring, while four arcades lead to identical halls that somehow return to the same square from different heights. The paving follows exact radial geometry, helping the impossible layout remain readable. Around the courtyard rise tiered facades, balconies, and staircases that wrap a suspended garden where koi swim through the air between trimmed hedges. Beyond the enclosing architecture, a horizon of inverted mountains and levitating pavilions hangs beneath a lavender sky. Reflections in polished stone align perfectly, reinforcing the dream logic with rigorous spatial order.",
+    "length": 688
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:21",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. At the center of a suspended archipelago, a marble observatory rises from the smallest island, its brass dome split into concentric rings that hover slightly apart and glow with star-map etchings. Around it, larger islands hang at staggered heights, carrying terraced gardens, narrow bridges that stop midair, and a citadel whose lower towers descend farther than the island that supports it. Waterfalls stream downward, then bend into luminous mist before reaching a cloud sea. As the wider arrangement is revealed, hidden alignments between bridges, towers, and celestial instruments form an impossible yet orderly vertical metropolis.",
+    "length": 654
+  },
+  {
+    "id": "test:Fantasy and Surrealism:22",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A canyon of black stone opens beneath a pale violet sky, its walls carved into repeating stair patterns that descend and rise without agreeing on distance. On the canyon floor, a forest of silver trunks grows upside down from hovering slabs, their roots braided into lantern-like fruit emitting warm amber light. Between the trees lie narrow voids with no visible bottom, bordered by neat pathways of white salt. Farther across, monumental doorframes stand alone in space, each containing a different dawn hue. The landscape remains navigable and precise, yet every layer suggests a symbolic ritual terrain assembled from memory rather than geology.",
+    "length": 667
+  },
+  {
+    "id": "test:Fantasy and Surrealism:23",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A dreamlike city is arranged across a tranquil inland sea where rectangular plazas float like stone rafts, each connected by aqueducts that pour water upward into elevated canals. Slender apartment towers stand perfectly vertical on the plazas, while their reflections solidify into secondary buildings hanging beneath the water surface, creating a mirrored district with its own lit windows and staircases. Between both layers, translucent elevators travel through the waterline as if crossing a civic boundary. Arches, colonnades, and measured street grids keep the place legible, even as gravity appears to divide itself into separate but harmonious rules.",
+    "length": 678
+  },
+  {
+    "id": "test:Fantasy and Surrealism:24",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A vast floating citadel turns above a stormless horizon, built from stacked hexagonal platforms threaded by bridges, hanging libraries, and circular observatories with open armillary cores. The upper terraces carry cypress groves and reflecting pools, while the underside reveals inverted buttresses, chandeliers of crystal rock, and suspended cloisters lit by blue fire. Smaller islands revolve nearby in disciplined spacing, each holding a tower or garden aligned to the citadel’s geometry. Through the full spatial arrangement, the structure reads as a coherent airborne capital, ceremonial and engineered, with every impossible mass balanced by elegant counterweights and luminous celestial machinery.",
+    "length": 724
+  }
+]

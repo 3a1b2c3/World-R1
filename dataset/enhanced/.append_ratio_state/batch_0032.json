@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Natural Landscapes:32",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A broad alpine valley in late autumn, with dark granite ridges stepping back into mist and a braided river spreading across a stony floodplain. Wind combs through tawny grass and low shrubs while thin rain passes in bands beneath a ceiling of bruised blue-gray cloud. Fresh snow clings to the highest ledges, hinting at the season turning. Puddles tremble under scattered drops, and the river surface alternates between silvery reflections and muddy turbulence around exposed boulders. Near the horizon, a break in the storm lets warm evening light strike one hillside, setting wet rock and drifting vapor aglow.",
+    "length": 630
+  },
+  {
+    "id": "train:Urban and Architectural:0",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A dense downtown avenue at blue hour, laid out with precise receding facades, traffic lanes, tram rails, and a canyon of glass and stone towers converging toward a distant intersection. Streetlights bloom against damp pavement, turning crosswalk paint and manhole covers into bright geometric accents. Buses, taxis, and a few cyclists thread through ordered lanes while illuminated office floors stack upward behind reflective curtain walls. Steam rises from a service grate near the curb, neon signage flickers under awnings, and the skyline beyond is layered with rooftop water tanks, antennae, and staggered high-rises disappearing into a cool urban haze.",
+    "length": 674
+  },
+  {
+    "id": "train:Urban and Architectural:1",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A grand museum atrium organized around a central marble floor pattern, with symmetrical colonnades, upper balconies, and a vaulted glass roof supported by a clear steel grid. Close details include polished stone veining, brass railings, and a reception desk with neatly arranged brochures, while farther back the full volume opens into side galleries and a broad stair splitting into twin flights. Morning light filters through the roof and shifts across the floor in pale rectangles, catching dust in the air. Benches, planters, and directional signs anchor the scale, and the far walls reveal layered arches, doorways, and long axial sightlines.",
+    "length": 664
+  },
+  {
+    "id": "train:Urban and Architectural:2",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. An elevated commuter rail terminal spanning multiple tracks, with repeating steel trusses, concrete platforms, overhead catenary lines, and a long glazed concourse tying the structure together. Foreground safety bollards, signal cabinets, and painted platform numbers give way to mid-distance stair towers and escalators feeding down from the main hall. Beyond them, bridges cross the rail yard and merge into a dense network of switching points, retaining walls, and service roads. Recent rain leaves darkened concrete and reflective puddles between sleepers. Arrival boards glow amber under the canopy, and a silver train idles beneath drifting brake vapor while the city edge rises beyond the terminal.",
+    "length": 723
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:58",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A magnified study of a moss spore capsule split open beside a shard of oxidized copper and a dusting of quartz grains on matte black slate. Hair-thin filaments arc from the capsule, each carrying amber droplets that catch narrow bands of cold light. The copper skin shows turquoise corrosion blooming along sharp ridges, while the quartz fragments sit like translucent boulders with chipped faces and tiny trapped bubbles. Focus depth reveals layered scale cues: velvet spores, granular mineral dust, and faint moisture bridging the gaps, creating a precise miniature landscape with biological and inorganic contrast.",
+    "length": 635
+  },
+  {
+    "id": "test:Micro and Still Life:59",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. An extreme close study of overlapping materials arranged on a workbench: a torn strip of silk, a cracked glaze ceramic tile, a scratched acrylic sample, and a bead of glycerin spreading across brushed aluminum. The silk weave rises in tight ridges with stray fibers catching warm sidelight, while the ceramic fracture network reveals chalky edges and darker crazing within the glaze. Beneath the fluid bead, the metal grain bends and distorts through the curved surface, and the acrylic carries fine abrasion halos and milky translucency. Every surface transitions crisply from soft diffusion to hard specular response.",
+    "length": 638
+  },
+  {
+    "id": "test:Micro and Still Life:60",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A carefully arranged desktop assemblage built around a fountain pen nib, a spiral seashell fragment, a folded sheet of tracing paper, three graphite sticks, and a small brass compass resting on walnut. The objects are spaced to create layered parallax and changing overlaps: the nib glints with micro scratches, graphite dust gathers near the broken stick ends, and the tracing paper glows softly where its edges curl above the wood. The shell interior shows pearly bands and tiny chips, while the compass glass holds a faint reflection and a rim of dust, giving the still life measured balance and tactile realism.",
+    "length": 634
+  },
+  {
+    "id": "test:Micro and Still Life:61",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A laboratory-style macro tableau pairs a thin cross section of agate, a beetle wing case, and a dried lichen rosette on clear glass above a dark void. The agate reveals concentric mineral bands with cloudy inclusions and minute crystalline pockets, while the wing case shifts from deep green to violet along ribbed chitin, marked by pinprick pits and worn edges. The lichen spreads in branching cups dusted with pale granules, its brittle surface lifting slightly from the plate. Reflections and refractions through the glass add secondary depth layers, making the biological and geological structures feel exact, fragile, and dimensional.",
+    "length": 659
+  }
+]

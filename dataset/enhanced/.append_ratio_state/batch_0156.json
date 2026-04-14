@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Fantasy and Surrealism:32",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A silent dream district hangs over a pale inland sea, assembled from terraced courtyards, stairways that descend into the sky, and archways whose far sides return to the same plaza at a higher elevation. The geometry remains readable: bridges meet towers at believable load points, shadows align with a low amber sun, and every impossible junction still obeys clear depth and scale. In the foreground, a row of white fig trees grows from suspended stone planters, their roots braided into brass lattices. Beyond them, a clock pavilion spills glowing water upward into a reservoir of stars.",
+    "length": 607
+  },
+  {
+    "id": "train:Fantasy and Surrealism:33",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A chain of floating islands stretches across a sapphire haze, each mass carved into habitable terraces with retaining walls, gardens, cisterns, and observatories capped by copper domes. Heavy anchor chains descend from the islands into a luminous cloud deck, implying hidden counterweights below. Near the nearest edge, laundry lines, market awnings, and a ring of weathered statues give human scale, while farther citadels rise in orderly layers connected by slender causeways and stair bridges. Warm sunset light grazes stone faces, and drifting birds weave between the suspended neighborhoods.",
+    "length": 615
+  },
+  {
+    "id": "train:Fantasy and Surrealism:34",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. At the center of a vast canyon of black glass stands a leafless silver tree, rooted on a circular island of pale sand suspended above a bottomless violet void. Around it, the canyon walls curve inward like folded paper yet maintain consistent strata, ledges, and erosion patterns, so the impossible terrain still reads as solid. A forest of inverted pines hangs from the upper cliffs, their needles shedding slow sparks that descend like pollen toward the tree. Thin rivers of liquid light spill from cracks in the rock and bend into luminous arcs before joining a haloing basin beneath the island.",
+    "length": 617
+  },
+  {
+    "id": "train:Fantasy and Surrealism:35",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A moonlit cloister floats inside the hollow center of a colossal cube, its interior faces tiled with arcades, windows, and gardens that all turn inward toward a central reflecting pool. Stone walkways cross open air and join seamlessly at corners where gravity seems to rotate, yet columns, buttresses, and water channels remain precisely aligned, making the paradox feel engineered rather than chaotic. White koi glide through the pool and continue upward along a vertical canal into a ceiling orchard of cypress and lanterns. Cool blue shadows, silver mist, and distant bells give the structure the calm logic of a remembered place.",
+    "length": 654
+  }
+]

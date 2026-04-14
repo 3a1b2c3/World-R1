@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:78",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. On a walnut writing desk, a deliberate arrangement spans the surface from a brass compass and folded tracing paper to a chipped ceramic ink bottle, sealing wax, a magnifying loupe, and a line of graphite pencils shaved to different lengths. Dust gathers in the desk grain, tiny fibers cling to the paper edge, and fingerprints soften the polish on the compass lid. A teacup ring ghosts the wood near a stack of postage stamps, while a curled shaving of cedar rests beside a steel nib. Warm window light skims across each object, separating glossy enamel, tarnished metal, rough paper, and velvety wood with exact depth and scale.",
+    "length": 646
+  },
+  {
+    "id": "test:Micro and Still Life:79",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A magnified specimen tableau stretches across a black laboratory slide: branching fungal hyphae tangled with pollen grains, a translucent insect wing fragment, salt crystals, copper oxidation flakes, and a bead of amber resin trapping minute air bubbles. The wing membrane shows a fine lattice of veins, the pollen appears spiked and powdery, and the crystal faces catch hard white glints against the matte slide. Moisture halos cling to the organic fragments, while the mineral pieces remain dry and sharp-edged. The scene balances biological softness and inorganic geometry, with shallow depth cues revealing tiny height changes from one cluster to the next.",
+    "length": 678
+  },
+  {
+    "id": "test:Micro and Still Life:80",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A study of surfaces fills the table: a cracked sheet of smoked glass overlapping frayed indigo linen, a peeled strip of varnish on painted wood, a droplet of honey bridging two grains of coarse salt, and a thin slice of agate glowing at the edge where light passes through. Fine scratches web across the glass, individual threads lift from the weave, and tiny trapped bubbles cloud the honey’s amber body. Condensation pearls on a stainless spoon nearby, reflecting distorted fragments of the surroundings. Every material responds differently—brittle, fibrous, slick, viscous, translucent—creating a precise tactile progression from dry abrasion to liquid sheen.",
+    "length": 678
+  },
+  {
+    "id": "test:Fantasy and Surrealism:0",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. Beyond a sea of clouds, a suspended archipelago supports a luminous city of terraces, hanging gardens, and slender observatories linked by impossible bridges that fold back through the air yet meet cleanly at carved stone gates. Inverted towers hang beneath some islands like stalactites, their windows glowing with warm life, while slow waterfalls pour from elevated reservoirs and dissolve into mist before reaching the void. Brass astrolabes turn above a central citadel, tracing celestial patterns through the haze. The world defies ordinary gravity but remains architecturally legible, with layered distances, believable masonry, and coherent pathways threading the dreamlike skyline.",
+    "length": 705
+  }
+]

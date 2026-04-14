@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Micro and Still Life:25",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A crystalline grain of sea salt and a torn fragment of dried moss rest on a black laboratory slide dusted with fine pollen. At the nearest scale, the salt shows stepped terraces, tiny trapped bubbles, and sharp translucent edges, while the moss reveals curled cellulose fibers and beadlike spores clinging to damp recesses. As the scene broadens, more of the slide appears: a faint ring of evaporated mineral residue, scattered diatom shells, a hair-thin filament, and the soft falloff into the brushed metal tabletop, with cool white light carving crisp relief and delicate shadows between every raised structure.",
+    "length": 631
+  },
+  {
+    "id": "train:Micro and Still Life:26",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A tabletop arrangement studies surface behavior in extreme detail: a chipped piece of frosted glass, a folded strip of linen, a lacquered ceramic shard, and a shallow smear of honey crossing the wood grain. The glass holds tiny scratches and cloudy inclusions; the linen weave rises in uneven threads with lint caught in the intersections; the ceramic reflects a clean highlight broken by a hairline crack; the honey forms a meniscus with suspended air bubbles and a tacky amber edge. Raking light reveals pores, abrasion, translucency, and thin dust deposits lodged where each material meets the next.",
+    "length": 620
+  },
+  {
+    "id": "train:Micro and Still Life:27",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. An arranged desktop still life sits on warm walnut: a graphite pencil shaved to expose fresh cedar, a brass key with worn teeth, a folded index card, a white porcelain espresso cup with a dried coffee ring, and three paper clips casting tiny hooked shadows. The composition is staggered in depth so each object overlaps cleanly: the pencil splinters catch light, the key shows greasy fingerprints and oxidation in the recesses, the card fibers feather at one corner, and the cup glaze shifts from bright specular sheen to soft reflection. Dust flecks and faint circular marks in the wood add scale and lived-in realism.",
+    "length": 638
+  },
+  {
+    "id": "train:Micro and Still Life:28",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A tiny mineral garden rises from a droplet of evaporating pond water on a glass slide: branching salt crystals, amber bacterial film, green algal threads, and several translucent diatoms arranged like etched capsules. The center mass feels almost architectural, with crystalline needles projecting upward while the biological matter clings in moist folds around their base. Depth is layered carefully, letting the nearest structures occlude others as the scene reveals different facets: refractive edges flash cold white, the algae remain velvety and saturated, and the droplet boundary forms a curved meniscus that distorts the slide beneath it with believable optical warping.",
+    "length": 697
+  }
+]

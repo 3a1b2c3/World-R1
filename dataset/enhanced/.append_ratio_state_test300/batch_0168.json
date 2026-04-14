@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:13",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A vast canyon opens into a starless void where terraces of black stone hang in parallel layers, each carrying upside-down cedar forests whose roots glow like lantern filaments. Narrow bridges of white salt connect cliffs that never quite meet, and a river of liquid light flows sideways through the chasm, slipping between suspended arches before vanishing into a bright seam in the air. Monolithic doorframes stand alone on ledges with no walls attached, all aligned to a distant eclipse halo. Fine dust drifts upward, and the whole landscape obeys an impossible but readable order of depth, weight, and balance.",
+    "length": 632
+  },
+  {
+    "id": "test:Fantasy and Surrealism:14",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. At the center of a dreamlike basin rises a many-sided house assembled from coherent impossibilities: stairways loop through open air yet rejoin the same landing, interior corridors appear on the exterior skin, and reflective pools hang as flat disks beneath eaves without spilling. The structure sits on a circular garden divided into precise wedges of moss, pale sand, and shallow water, each marked by stone markers casting shadows in different directions. Beyond it, softly folded hills repeat like memory. A suspended moon-shaped aperture pours silver daylight into the courtyard, making the paradox feel measured, stable, and inhabitable.",
+    "length": 662
+  },
+  {
+    "id": "test:Fantasy and Surrealism:15",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A floating citadel complex hangs above a cloud ocean, built from concentric rings of pale limestone islands linked by aqueducts and delicate chain bridges. At the core, an observatory tower rises from a levitating plaza, its brass armillary spheres turning around a captive shard of dawn. Smaller districts drift at distinct heights: terraced gardens with cypress trees, domed libraries, harbors with moored sky barges, and sheer retaining walls that hold back waterfalls pouring into open air. The arrangement reads like a functioning city despite its suspension, with clear mass, hierarchy, and believable pathways between every elevated quarter.",
+    "length": 668
+  },
+  {
+    "id": "test:Fantasy and Surrealism:16",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A forest grows from the floor of a crimson canyon, but each trunk extends both upward and downward from a horizontal band of soil suspended midway between the cliffs. Below, a dark mirror-lake reflects a second woodland that does not fully match the one above, creating small deliberate discrepancies in branch angles and glowing fruit. High in the gorge, rectangular cuts in the rock emit shafts of amber light that fall as solid columns and stop abruptly before touching the ground. Narrow stone steps descend into empty air, ending at a solitary gate of bone-white marble, poised over the central void like a sacred equation.",
+    "length": 645
+  }
+]

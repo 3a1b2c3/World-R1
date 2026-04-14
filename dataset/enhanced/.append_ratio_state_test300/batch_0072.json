@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Urban and Architectural:31",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A quiet municipal library atrium built around a precise rectangular grid of pale stone columns, recessed ceiling coffers, and glass guardrails. In the near field, a reading table holds neatly aligned catalogs, a brass desk lamp, and a folded floor plan; beyond it, the space opens into stacked mezzanines, parallel balcony edges, and a long stair rising diagonally to a skylit upper level. Reflections in the polished terrazzo floor echo the verticals. Elevator doors, signage, bookshelves, and evenly spaced doorways create layered depth, strict vanishing lines, and a clear, testable interior layout.",
+    "length": 619
+  },
+  {
+    "id": "test:Urban and Architectural:32",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. Inside a vast intercity rail terminal, a row of steel support columns, timetable boards, ticket gates, and platform barriers recede in disciplined perspective beneath a ribbed concrete ceiling. The foreground includes a yellow tactile strip, a maintenance cart, bundled cables, and a stainless bench with discarded newspapers, while farther back multiple tracks disappear under signal gantries and overhead catenary structures. Glass partitions reveal escalators and an upper concourse. Repeating beams, signage, platform numbers, and hard-edged shadows make the station feel measurable, coherent, and infrastructural.",
+    "length": 636
+  },
+  {
+    "id": "test:Micro and Still Life:0",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. An arranged writing desk still life on dark walnut: a fountain pen with dried ink around the nib, a brass ruler, sealing wax, a torn envelope, curled graph paper, a magnifying loupe, and three mineral specimens placed with deliberate spacing. Dust rests in the wood grain, faint scratches ring a ceramic inkwell, and the paper fibers lift along creased edges. A sprig of rosemary lies beside a wax seal, adding a fresh matte texture against polished metal and glass. The composition narrows toward the pen tip and seal, with rich tactile contrast, tiny imperfections, and intimate depth cues across the tabletop.",
+    "length": 628
+  },
+  {
+    "id": "test:Micro and Still Life:1",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A magnified cross section of a lichen colony spreading over weathered basalt, rendered with scientific clarity. Near the center, translucent fungal threads weave between angular mineral grains, tiny moisture droplets cling to crystalline edges, and pale green algal cells cluster in irregular pockets. The substrate shows pits, fractures, and mica-like flecks embedded in darker volcanic stone. As the field broadens, neighboring patches of orange lichen, granular dust, and thin films of moisture reveal how the colony occupies the rock surface. Fine scale transitions, layered textures, and believable biological structure dominate the scene.",
+    "length": 661
+  }
+]

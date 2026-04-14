@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Natural Landscapes:0",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A glacial valley at first light, carved into steep U-shaped walls of dark granite streaked with pale mineral veins. Broken ledges step down toward a braided river that threads across the valley floor, splitting around bars of gravel and polished boulders. Farther back, a hanging valley releases a thin waterfall that atomizes into mist before reaching the talus below. Patchy snow clings to shaded shelves, while low cloud catches on serrated ridgelines. The arrangement emphasizes nested depth planes, clear erosion patterns, and the immense scale of rock geometry under cold blue dawn air.",
+    "length": 608
+  },
+  {
+    "id": "test:Natural Landscapes:1",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A crystal lake bordered by black volcanic sand and scattered driftwood, with the near shallows revealing rounded stones beneath transparent water. Small wind ripples disturb mirrorlike reflections of fir trees and a distant snow peak, while a narrow stream enters from one side carrying silt that fans into the clearer basin. Along the far shore, low waves lap against reeds and weathered rock, throwing tiny bursts of spray into amber evening light. The wider setting opens to include coves, submerged shelves, wet shoreline textures, and layered mountain silhouettes fading into haze.",
+    "length": 603
+  },
+  {
+    "id": "test:Natural Landscapes:2",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. An alpine meadow in late autumn beneath a fast-changing storm front, laid out with a winding creek, scattered larch turning gold, and dark spruce on rising ground. To one side, rain curtains descend from a slate cloud bank, obscuring part of a distant ridge, while the opposite horizon breaks open to a band of warm sunlight that ignites wet grass and shallow puddles. Gusts rake the meadow in visible waves, bending sedges and sending leaves across stones. Behind it all, peaks appear and disappear through drifting vapor, creating a demanding layered read of weather, season, and shifting illumination.",
+    "length": 622
+  },
+  {
+    "id": "test:Natural Landscapes:3",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A desert badlands basin built from eroded sandstone, mudstone, and tilted sediment layers, with hoodoos and knife-edged ridges arranged in staggered depth. In the foreground, a dry wash snakes through cracked clay and angular debris, then disappears behind buttes whose faces reveal alternating rust, ochre, and ash-gray bands. Sparse shrubs cling to pockets of soil, emphasizing scale against towering formations. Farther across the basin, a natural arch stands partially silhouetted against a pale afternoon sky, while heat shimmer softens the most distant mesas. The terrain reads as rigid, stratified, and precisely weathered by time.",
+    "length": 657
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:25",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A crescent canyon opens above a starless void, its basalt walls rising in stacked terraces that bend into impossible arches without losing structural rhythm. From the abyss, pale trees grow downward as if rooted in light, their silver leaves drifting toward a suspended river that loops through open air before vanishing into a radiant fissure. Monolithic stairways connect ledges at contradictory angles yet meet cleanly at carved platforms marked with concentric symbols. Amber mist pools in the depths while a single white sun hangs beneath the horizon, casting lucid, ceremonial light across stone and foliage.",
+    "length": 634
+  },
+  {
+    "id": "test:Fantasy and Surrealism:26",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A dream city is arranged along a quiet inland sea where each district obeys its own geometry yet joins the next with exact masonry. Closest to the shore stand square colonnades reflected in still water; beyond them, streets rise into triangular courtyards, then continue seamlessly into circular towers whose interiors open to the sky. Bridges pass through buildings and emerge at mathematically precise heights over gardens of oversized lilies and glowing sand. In the far distance, a moonlit mountain folds back on itself like a turned page, but every shadow, doorway, and stair remains consistent and traversable.",
+    "length": 633
+  },
+  {
+    "id": "test:Fantasy and Surrealism:27",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. Across a cobalt sky, a chain of floating islands supports a stratified metropolis built with the discipline of an ancient observatory. Nearest hangs a broken limestone mass ringed by cypress trees and water channels that spill as silver threads into the open air. Farther across, terraced citadels rise from larger landforms, their buttresses anchored to nothing yet balanced by vast counterweights and luminous crystal piers. Brass domes, armillary towers, and star-mapping courts align along a clear axial route that links bridge fragments, suspended plazas, and a final palace poised above the clouds like a celestial harbor.",
+    "length": 646
+  },
+  {
+    "id": "test:Fantasy and Surrealism:28",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. A silent forest stands at the rim of an enormous canyon shaped like a ritual emblem, its walls descending in hexagonal shelves toward a black center that never reaches bottom. The nearest trunks are smooth white stone veined with living bark, and their branches hold lantern-fruit that emit soft gold halos. Across the gulf, entire groves grow sideways from vertical cliffs, joined by root lattices and narrow paths cut into rose-colored rock. Lower down, shards of land hover in measured layers over the void, each carrying pools that reflect a second dawn. A tall beam of crimson light rises from the abyss, tinting mist, leaves, and canyon dust with solemn symbolic radiance.",
+    "length": 721
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Fantasy and Surrealism:36",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A chain of floating basalt islands hangs above a midnight sea of cloud, each mass linked by arched bridges, suspended stairways, and thin aqueducts that spill upward into the air before vanishing as silver mist. On the nearest island, a crescent citadel rises in stacked terraces of black stone and pale copper domes, with an observatory tower capped by a luminous armillary sphere. Farther across the sky, whole districts drift at different heights, their foundations exposed like roots. Moonlit haze separates the layers, while windows glow amber and constellations reflect in polished courtyards.",
+    "length": 616
+  },
+  {
+    "id": "train:Fantasy and Surrealism:37",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A vast canyon opens through a dreamlike wilderness where petrified trees grow upside down from overhanging cliffs and their crystal leaves shed slow sparks into a bottomless violet void. The canyon floor is absent, replaced by suspended slabs of red stone stepping across emptiness like a broken riverbed. Between them, tall reeds of glass bend toward a distant column of white radiance that behaves like both sunrise and monument. On one rim, a forest of hollow trunks forms perfect concentric rings; on the opposite side, melted arches and impossible terraces recede into blue fog, all arranged with precise, readable depth.",
+    "length": 644
+  },
+  {
+    "id": "train:Fantasy and Surrealism:38",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. At first there is a close arrangement of chalk-white doorways standing alone on a tiled platform, each opening onto a different season: snowfall, green rain, autumn dust, and a star-filled dusk. Beyond this platform, the full world resolves into a coherent impossible city built inside a giant hollow cube whose interior faces hold streets, balconies, and gardens oriented toward a shared central airspace. Stone staircases descend from ceilings and still meet their landings exactly. A quiet canal climbs one wall, crosses overhead in a glass trough, and continues into the distance, while tiny lanterns mark every junction with orderly rhythm.",
+    "length": 688
+  },
+  {
+    "id": "train:Fantasy and Surrealism:39",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A monumental island-city drifts above an endless sunlit abyss, its underside formed from layered marble cliffs threaded with waterfalls that break into flocks of glowing birds before rejoining as water below. The upper plateau holds a ringed citadel of ivory towers, hanging gardens, and narrow plazas paved in geometric mosaics. Near the center, an open observatory rises on slender arches, supporting a rotating map of the heavens made from bronze hoops and suspended crystals. Smaller satellite islands hover nearby with shrines, fig trees, and bridges of woven light, all set at distinct distances so the aerial kingdom reads as a believable, tiered structure.",
+    "length": 709
+  }
+]

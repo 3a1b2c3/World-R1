@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:42",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. An arranged drafting-table still life built for precise depth cues: a brass compass lies half open beside a sharpened cedar pencil, torn graph paper, a smoked-glass ink bottle, three stacked postage stamps, and a curled strip of transparent tape catching tiny dust fibers. The nearest objects form a low ridge while a porcelain cup with coffee residue anchors the far side, creating layered parallax across the desktop. Walnut grain, paper tooth, oxidized metal, dried ink rings, and a few loose pencil shavings are rendered with tactile clarity under cool window light and a faint warm desk-lamp spill.",
+    "length": 621
+  },
+  {
+    "id": "test:Micro and Still Life:43",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A magnified study table of tiny specimens arranged like a scientific comparison: a translucent onion-skin membrane stretched on a slide, a branching patch of pale green mold on bread crust, salt crystals scattered beside a shaving of rusted steel wool, and a bead of water holding an inverted reflection of gridded lab paper. Fibers from a cotton swab cross the foreground like fallen logs, while the background falls into soft layers of petri dishes and tweezers. Moisture, crystalline edges, cellular translucency, and granular corrosion all read with exact scale-rich detail.",
+    "length": 597
+  },
+  {
+    "id": "test:Micro and Still Life:44",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A concentrated materials study gathered on a dark slate tile: cracked amber resin, a square of sheer linen, a scratched acrylic sample, a chipped ceramic shard with blue glaze crazing, and a shallow puddle of glycerin partly covering coarse black sand. The arrangement is circular and height-varied so reflections and edge thickness keep changing against one another. Light penetrates the resin and acrylic with milky internal glow, catches individual threads in the weave, glances off hairline scratches, and reveals tiny meniscus ridges where the fluid clings to grit and fractured surfaces.",
+    "length": 612
+  },
+  {
+    "id": "test:Micro and Still Life:45",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A meticulously staged watchmaker’s bench still life with a compact mechanical balance at center, surrounded by a loupe, blued screws in a porcelain dish, opened calipers, a folded receipt, and a small pear held in place by its own weight near the back edge. The composition uses nested circles, straight rulers, and overlapping shadows so object spacing remains legible from multiple angles. Brushed steel, oily fingerprints on glass, crisp paper fibers, tarnished brass, and the pear’s matte speckled skin create contrasting textures, while shallow depth layers separate foreground tools from the orderly clutter beyond.",
+    "length": 641
+  }
+]

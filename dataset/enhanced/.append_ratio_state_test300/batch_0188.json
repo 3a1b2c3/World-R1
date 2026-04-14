@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:33",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A chain of floating basalt islands hangs above a luminous storm sea, each landmass held in place by colossal bronze astrolabes and braided bridges of stone that arc across open sky. At the near edge, a terraced citadel rises from one island with hanging gardens, rain cisterns, and stairways that descend into empty air before reconnecting to higher platforms. Farther along the chain, domed observatories, beacon towers, and suspended aqueducts align in receding layers, revealing parallax between foreground buttresses, midair causeways, and a distant city wrapped in pale aurora and drifting cloud.",
+    "length": 620
+  },
+  {
+    "id": "test:Fantasy and Surrealism:34",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. At the center of a vast impossible canyon stands a black monolith rooted in a pool that reflects a starless void instead of the terrain around it. Around this axis, the landscape unfolds in concentric contradictions: sandstone cliffs fold into cathedral-like forest trunks, stair-stepped ledges hang upside down beneath glowing roots, and narrow stone paths cross open emptiness to isolated arches. Shafts of symbolic gold light descend at precise intervals, touching select rocks, leaves, and suspended dust, while distant ridges bend back toward themselves without breaking the internal geometry of the scene.",
+    "length": 630
+  },
+  {
+    "id": "test:Fantasy and Surrealism:35",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A dreamlike civic plaza floats inside a hollow sphere of sky, where the ground is tiled in white marble grids that curve upward into vertical neighborhoods without any visible seam. At the center, a quiet fountain pours water into ribbons that travel along invisible channels, feeding elevated gardens and windowed houses embedded in impossible angles. Colonnades, stair towers, and market balconies repeat with slight variation, forming a believable urban plan despite reversed horizons and nested gravity wells. Lanterns drift in measured rings above the square, and every structure casts consistent light and shadow across the warped yet orderly world.",
+    "length": 675
+  },
+  {
+    "id": "test:Fantasy and Surrealism:36",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A monumental floating city stretches across the horizon as a sequence of suspended districts, each anchored to a different island of pale stone and linked by elegant viaducts, chain bridges, and narrow trains of light. In the foreground, a weathered observatory with a split copper dome sits beside a cliff-edge plaza lined with carved markers and wind bells. Beyond it, layered citadels step across the sky in clear spatial bands: lower market terraces, midlevel libraries and reservoirs, then high sanctums and signal towers emerging through cloud. Underneath the islands, waterfalls descend into a glowing mist that reveals the immense vertical depth of the world.",
+    "length": 684
+  }
+]

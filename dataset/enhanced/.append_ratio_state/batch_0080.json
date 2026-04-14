@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Micro and Still Life:21",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A walnut desktop holds a deliberate arrangement: a brass compass with a faint patina, a folded cream envelope sealed with cracked red wax, a fountain pen with a marbled barrel, three graphite pencils shaved to different lengths, and a small watch gear spilled beside a ceramic ink dish. Dust motes cling to the wood grain and soft fibers gather along the paper edge. The metal surfaces catch warm window light while the wax absorbs it, creating layered contrast. Parallax between the taller pen, the low gear cluster, and the envelope corner gives the tabletop composition clear depth and believable spatial separation.",
+    "length": 639
+  },
+  {
+    "id": "train:Micro and Still Life:22",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. An extreme magnified study reveals a shallow glass slide where a translucent leaf fragment overlaps crystalline salt deposits and a filament of pale mold. Veins branch through the leaf like stained green rivers, their membranes thinning toward torn edges. The salt forms angular terraces with tiny reflective faces, while the fungal strand appears velvety and moist, bending across the mineral surface. Condensation beads cling along the slide, distorting details beneath into soft halos. The arrangement feels like a miniature landscape of biological tissue and inorganic geometry, rich with scale ambiguity and precise surface relief.",
+    "length": 653
+  },
+  {
+    "id": "train:Micro and Still Life:23",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A tight material study stretches across a workbench: torn black silk, frosted acrylic, a cracked glaze tile, and a puddle of amber resin creeping between them. The silk weave shows individual threads lifting at the frayed edge, absorbing light into deep soft valleys. The acrylic carries hairline scratches and cloudy internal bloom, while the tile’s crazing forms irregular maps filled with darker dust. The resin domes at its edge, trapping tiny air bubbles and reflecting bright highlights that slide across the surfaces. Each material reacts differently to the same illumination, emphasizing translucency, roughness, and layered microtexture.",
+    "length": 664
+  },
+  {
+    "id": "train:Micro and Still Life:24",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. On a matte gray desk, a carefully balanced still life centers on a half-open field notebook, its deckled pages splayed beside a cluster of collected objects: a striped seashell, a dried billy button flower, a glass vial with blue pigment powder, a steel binder clip, and a square of linen ribbon. Pencil notes and tiny measurement marks are visible on the paper, with graphite sheen catching the light differently from the fibrous page. The shell’s ridges, the flower’s dense globe of florets, and the powder settled in the vial create increasing textural richness toward the middle, inviting closer inspection of fine tactile detail.",
+    "length": 650
+  }
+]

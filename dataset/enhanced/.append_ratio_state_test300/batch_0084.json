@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:10",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A magnified tableau of lichen creeping across a splintered twig beside a shard of oxidized copper on matte black glass. Pale green cups, powdery spores, tiny moisture beads, and hair-thin fungal threads create a layered biological terrain, while the metal shows turquoise corrosion islands, sharp crystalline rims, and pits filled with amber residue. A shallow ridge of dust and quartz grains crosses the foreground, giving strong scale contrast. Cool sidelight reveals translucency in the wet growth and razor texture in bark fibers, with soft falloff into a dark uncluttered background.",
+    "length": 606
+  },
+  {
+    "id": "test:Micro and Still Life:11",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. An extreme close study of material contrast arranged on a slate tile: a torn swatch of indigo silk, a cracked porcelain chip, a clear resin droplet, and a brushed aluminum strip scored with fine use marks. The silk weave catches light thread by thread, with raised lint and tiny snags; the porcelain glaze crazes into branching lines around a jagged edge; the resin holds suspended air bubbles and bends the surface beneath; the metal shows circular abrasion, fingerprints, and faint oxidation. Neutral daylight and a warm bounce create nuanced translucency, gloss, and micro-shadow separation.",
+    "length": 613
+  },
+  {
+    "id": "test:Micro and Still Life:12",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A meticulously arranged desktop still life built for close inspection: a fountain pen nib stained with dried sepia ink, a folded tracing paper square, a brass divider compass, three graphite fragments, a glass vial of ultramarine pigment, and a half-peeled tangerine segment resting on a weathered oak drafting board. The composition uses overlapping heights and radial spacing around the vial so every object reveals different surfaces as relationships shift. Powdered graphite dust, minute wood pores, oily fingerprints on brass, and the wet membranes of the fruit provide rich tactile cues under a quiet studio glow.",
+    "length": 638
+  },
+  {
+    "id": "test:Micro and Still Life:13",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A laboratory-like micro scene where a translucent slice of agate stands upright beside a curled beetle wing case, scattered pollen grains, and a cluster of salt crystals on dark basalt. The agate shows milky bands, internal fractures, and a glowing orange seam; the wing case has iridescent striations, tiny punctures, and a brittle amber edge; the pollen reads as soft granular spheres against the stone; the salt rises in cubic terraces with crisp specular flashes. A faint condensation ring and a few trapped fibers add realism, while controlled directional light separates each scale and material with precise depth.",
+    "length": 640
+  }
+]

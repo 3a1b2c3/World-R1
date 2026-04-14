@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Natural Landscapes:8",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. A late autumn valley opens beneath a steep wall of dark pines and granite ridges dusted with the first thin snow. In the near ground, tawny grass and low juniper cling to a rocky shelf above a braided river, its channels silver where weak sunlight breaks through. Farther off, curtains of rain drift across the middle distance, softening the foothills while a cold blue storm front presses in from one side. The sky shifts from pale amber near the horizon to bruised slate overhead, and gusts rake the river surface into ripples as mist gathers along the colder shaded banks.",
+    "length": 618
+  },
+  {
+    "id": "train:Natural Landscapes:9",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A desert canyon system stretches across layered space, beginning with a foreground ledge of fractured sandstone marked by iron-red seams and pockets of wind-carved gravel. Beyond it, terraced buttes, narrow ravines, and tall mesas step outward in distinct geological bands of ochre, rust, and chalky beige. A dry wash snakes through the basin floor, tracing the path of rare flash floods. Sparse creosote shrubs and hardy yucca anchor the scale. In the far distance, a tilted escarpment catches warm evening light while deep shadow pools inside slot-like cuts and recessed cliff faces.",
+    "length": 630
+  },
+  {
+    "id": "train:Natural Landscapes:10",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. At the edge of a mountain lake, clear water laps over rounded stones in shades of gray, amber, and moss green, each visible beneath the shallow surface. Small wavelets distort the reflections of nearby spruce trunks, while the deeper center of the lake turns to a cold cobalt mirror holding the snowy peaks beyond. On one side, a narrow stream enters through reeds and pale gravel, sending fans of sediment into the water. Across the lake, a low cascade spills over dark rock, throwing fine spray that catches sunlight in a faint prismatic haze. The shoreline curves gently into the distance under clean alpine air.",
+    "length": 631
+  },
+  {
+    "id": "train:Natural Landscapes:11",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A broad northern marsh in early spring lies under a sky in transition, where the last cool lavender of dusk gives way to a band of clear gold near the horizon. Patches of old snow remain in the shadowed sedge hummocks, and shallow meltwater pools reflect migrating clouds with glassy precision. Bare willow thickets stand in dark clusters, their wet branches shining after recent rain. A distant line of low hills fades into bluish haze, while thin ground mist forms over the coldest channels. The air feels still but saturated, and the light slowly deepens across the wetland, turning mud, reed, and water into layered tones of copper, gray, and violet.",
+    "length": 671
+  }
+]

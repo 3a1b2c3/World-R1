@@ -1,0 +1,10 @@
+__object__:
+  path: reward_server.depth_anything_3.model.reconstruction_model
+  name: NestedDepthAnything3Net
+  args: as_params
+
+anyview:
+  __inherit__: reward_server.depth_anything_3.configs.reconstruction-giant
+
+metric:
+  __inherit__: reward_server.depth_anything_3.configs.reconstruction-metric-large

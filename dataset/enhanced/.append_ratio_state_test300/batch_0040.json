@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Natural Landscapes:40",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A glacial lake lies beneath steep granite walls at blue hour, the shoreline stepping from wet black stones into clear shallows where pale sand and submerged pebbles remain visible through rippling water. Several thin waterfalls descend from snow patches high above, breaking into mist before striking ledges and feeding the basin with overlapping rings and drifting spray. Reflections of cliffs, conifers, and a narrow opening of sky distort across the surface as a cool wind strengthens. Low fog gathers near the far bank, and the deep basin, layered terraces, and receding valley create demanding depth cues with crisp, grounded geology.",
+    "length": 655
+  },
+  {
+    "id": "test:Urban and Architectural:0",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A dense downtown avenue at early dusk stretches between tall office towers, glass facades and gridded windows aligning toward a distant intersection where elevated rail tracks cross the street. Wet asphalt from a recent rain mirrors traffic lights, storefront signage, and the orange glow of buses, while crosswalk stripes, curb lines, and tram cables reinforce strict perspective. Steam rises from a utility vent beside a row of trees in planters, softening the lower air without obscuring the hard geometry. Farther back, a cluster of illuminated high-rises layers against a clearing storm sky, giving the street canyon strong scale and vanishing depth.",
+    "length": 671
+  },
+  {
+    "id": "test:Urban and Architectural:1",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A grand central library reading room opens into view with disciplined symmetry: long oak tables set in parallel rows, green shaded lamps evenly spaced, and coffered ceilings carried by stone columns that march toward tall arched windows. Bookshelves fill the side aisles from floor to gallery, their verticals clean and unwarped, while polished herringbone wood reflects pools of warm light. Dust hangs faintly in sunbeams near the windows, contrasting with cooler illumination in the distant stacks. The arrangement reveals nested layers of railings, mezzanines, doorways, and study alcoves, making the space progressively broader and more complex as more of the interior is revealed.",
+    "length": 702
+  },
+  {
+    "id": "test:Urban and Architectural:2",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A major rail terminal concourse is organized beneath a high steel-and-glass roof, where trusses, suspended signs, and power lines form a precise lattice over multiple platforms. On one side, a silver commuter train waits with doors open; on the other, tracks, safety markings, benches, and platform edges recede in strict parallel bands. Beyond the concourse, a signal bridge, service stair towers, and a maintenance shed extend the infrastructure into the distance. Reflections slide along polished floor tiles and train windows, while periodic bursts of brake vapor and drifting diesel haze add atmosphere without breaking the hard linear order of the station.",
+    "length": 680
+  }
+]

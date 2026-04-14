@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Fantasy and Surrealism:0",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. At the center of a violet storm sea, tiered islands hang one above another like a vertical archipelago, each underside ribbed with roots of crystal and dripping silver waterfalls that vanish into cloud before reaching anything below. Bridges of carved basalt connect a lower market ring to a suspended citadel, while an observatory of brass armatures and luminous astrolabes crowns the highest mass. Small lantern craft drift between levels, giving scale to the impossible elevation. The nearer terraces carry wind-bent gardens, worn steps, and wet stone, guiding attention toward the radiant summit.",
+    "length": 616
+  },
+  {
+    "id": "train:Fantasy and Surrealism:1",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A pale path of salt begins beside a still black pool and threads through a dream canyon where the walls are made of folded forest, trunks embedded sideways in striated stone, branches growing into the open air like antlers. Farther out, the ravine breaks into terraces suspended over a bottomless white void. Monolithic doorframes stand alone without walls, each holding a different color of dawn. A single beam of gold descends from nowhere onto the pool, turning its surface into a mirror of constellations. As the space expands, the lone pathway feels increasingly fragile inside the immense symbolic landscape.",
+    "length": 631
+  },
+  {
+    "id": "train:Fantasy and Surrealism:2",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. An impossible garden-city stretches along the inner face of a giant hollow cube, its streets climbing upward and then continuing seamlessly across adjacent planes. Arched colonnades, canals, and cypress courts obey a clear grid, yet gravity seems assigned separately to each surface. In the foreground, a marble stair descends into a reflecting basin where koi swim beneath floating candles; beyond it, townhouse facades rotate ninety degrees onto a vertical avenue lined with market awnings and laundry. The lateral reveal lets parapets, bridges, and aligned doorways slide past one another, proving the world has logic even while defying ordinary orientation.",
+    "length": 679
+  },
+  {
+    "id": "train:Fantasy and Surrealism:3",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. Over a twilight abyss, a chain of floating islands forms a deliberate civic axis: a lower harbor carved into rose sandstone, a midair library wrapped in ringed terraces, and at the far end a needlelike observatory anchored to nothing but light. Each landmass carries its own weather, from drifting snow on one ledge to warm pollen haze on the next, yet the architecture stays consistent through repeated motifs of buttresses, copper domes, and suspended aqueducts. As nearer cliffs give way to open gaps, hidden courtyards, hanging gardens, and the distant citadel align into a stately procession across the void.",
+    "length": 632
+  }
+]

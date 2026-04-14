@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Urban and Architectural:23",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A vast modern rail terminal at rush hour, built from exposed steel trusses, ribbed concrete, and long walls of glass. Parallel tracks run beneath high platforms marked by tactile strips, benches, vending machines, and evenly spaced support columns that recede toward a bright concourse. Overhead departure boards glow amber above escalators rising to a mezzanine lined with railings and shop fronts. Reflections shimmer on polished stone flooring, while catenary wires, signal lights, and the nose of a silver commuter train give the structure believable scale and crisp perspective.",
+    "length": 602
+  },
+  {
+    "id": "train:Urban and Architectural:24",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A dense downtown intersection at blue hour, anchored by a cylindrical glass office tower whose curtain wall catches the last cold light of the sky. Around it stand rectilinear high rises, older brick midrises, rooftop water tanks, fire escapes, and layered billboards. White crosswalk stripes, tram rails embedded in wet asphalt, and rows of traffic lights establish strong geometry at street level. Delivery vans, parked bicycles, steam rising from a utility grate, and illuminated windows create lived-in detail, while the skyline stacks clearly from foreground storefronts to distant towers.",
+    "length": 613
+  },
+  {
+    "id": "train:Urban and Architectural:25",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. Inside a grand contemporary library atrium, a circular information desk sits beneath a tall skylight, surrounded by concentric flooring bands in pale stone. Multi-level balconies ring the space with slim metal railings, book stacks arranged in precise rows, and bridges linking reading rooms across the void. Warm wood paneling contrasts with white structural ribs and glass elevator shafts. Tables with neatly spaced lamps, signage, stair cores, and potted trees define the interior hierarchy. The architecture reads cleanly in every direction, with measured symmetry, believable scale, and clear vertical depth.",
+    "length": 633
+  },
+  {
+    "id": "train:Micro and Still Life:0",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A carefully arranged writing desk in soft morning light, centered on a cream ceramic cup beside an open linen-bound notebook with deckled pages and faint graphite sketches. A brass fountain pen rests across the spine, surrounded by scattered paper clips, a folded letter sealed with red wax, a sprig of rosemary, and a small magnifying glass catching a bright specular highlight. The walnut surface shows fine grain, tiny scratches, and dust near the edges. Fabric fibers, ink sheen, ceramic glaze, and crisp paper texture create tactile depth, while the composition feels calm, deliberate, and intimate.",
+    "length": 620
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Urban and Architectural:7",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A grand civic library atrium unfolds with exacting symmetry: pale limestone columns, recessed reading balconies, glass balustrades, and a coffered ceiling crossed by long linear skylights. In the foreground, a row of oak study tables with green shaded lamps establishes scale, while beyond them a broad staircase rises to stacked mezzanines and doorways aligned along crisp orthogonal grids. Polished stone floors carry soft reflections and fine grout lines that reinforce the vanishing geometry. Sparse visitors sit quietly, giving the interior a measured, orderly rhythm and clean spatial legibility.",
+    "length": 620
+  },
+  {
+    "id": "test:Urban and Architectural:8",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. Inside a major rail terminal, the scene opens from the near edge of a platform marked by tactile paving, painted safety lines, and steel drainage channels, then reveals the wider concourse beneath a vaulted truss roof. Repeating catenary supports, suspended timetable boards, escalators, service corridors, and numbered tracks recede with rigorous perspective. A stationary commuter train occupies one side, its windows reflecting sodium-white overhead fixtures, while maintenance carts, signal cabinets, and distant stair towers clarify depth. Every beam, rail, and platform edge stays straight, scaled, and structurally plausible.",
+    "length": 675
+  },
+  {
+    "id": "test:Urban and Architectural:9",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A dense downtown intersection at blue hour begins close to a corner storefront of glass and brushed metal, then expands to expose a canyon of towers, fire escapes, traffic lights, and elevated signage. Wet asphalt mirrors crosswalk stripes, brake lights, and illuminated office grids, while lane markings, curb edges, and tram wires drive strong perspective toward multiple vanishing lines between high-rises. Mid-block loading bays, street trees in steel guards, bus shelters, rooftop water tanks, and layered billboards create a demanding urban layout with believable scale, spacing, and façade alignment.",
+    "length": 652
+  },
+  {
+    "id": "test:Urban and Architectural:10",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A contemporary museum corridor draws the eye toward a luminous central rotunda through a disciplined sequence of thresholds. Smooth concrete walls are interrupted by evenly spaced shadow gaps, flush walnut doors, recessed fire equipment panels, and narrow clerestory openings that wash the floor with controlled daylight. Long terrazzo joints and ceiling slats run perfectly true, tightening the perspective as they converge toward a circular information desk beneath a tall skylit drum. Minimal benches, wall text, and a few visitors in muted clothing preserve clarity while emphasizing depth, proportion, and material precision.",
+    "length": 646
+  }
+]

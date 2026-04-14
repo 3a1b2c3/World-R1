@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Urban and Architectural:7",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A vast contemporary public library atrium with disciplined geometry: terrazzo floor bands align with rows of square columns, glass balustrades, suspended linear lights, and stacked reading galleries rising four levels around a central void. Sunlight filters through a gridded skylight, casting crisp rectangular patches across tables, signage pylons, and book return kiosks. Along one side, an escalator bank and elevator core anchor the space; along the other, quiet study rooms sit behind clear partitions. Every edge stays straight and measured, emphasizing depth, repetition, and clean vanishing lines.",
+    "length": 624
+  },
+  {
+    "id": "train:Urban and Architectural:8",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. Inside a major rail terminal concourse, polished stone flooring reflects overhead departure boards, steel trusses, and long runs of skylight glazing. Parallel platform edges recede beneath numbered signs, while ticket gates, timetable kiosks, benches, and safety markings create a layered grid of ordered elements. A stationary commuter train waits under catenary supports beyond the main hall, with maintenance walkways and service doors visible deeper in the structure. The architecture feels heavy yet precise, built from riveted beams, concrete bays, and strict linear perspective.",
+    "length": 628
+  },
+  {
+    "id": "train:Urban and Architectural:9",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. At a downtown intersection after light rain, reflective asphalt mirrors lane arrows, crosswalk stripes, traffic lights, and the faceted bases of tall office towers. The near block is lined with storefront glazing, recessed lobbies, transit shelters, and street trees in square planters; farther back, a canyon of high-rises steps toward a dense skyline of glass, stone, and steel. Fire escapes, utility poles, signal cables, and repeating window grids reinforce scale and depth. Delivery vans, taxis, and a few pedestrians occupy the sidewalks without disrupting the rigorous urban geometry.",
+    "length": 636
+  },
+  {
+    "id": "train:Urban and Architectural:10",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A minimalist museum corridor unfolds with exacting symmetry: smooth concrete walls, narrow shadow gaps, and a pale stone floor leading toward a tall bronze sculpture placed in a daylit rotunda at the far end. On both sides, evenly spaced door portals reveal secondary galleries with benches, wall labels, and framed works hung at consistent height. Thin recessed light strips trace the ceiling in uninterrupted lines, while the corridor widens almost imperceptibly near the destination, strengthening depth cues. Surfaces are immaculate, edges crisp, and proportions calm, monumental, and carefully resolved.",
+    "length": 624
+  }
+]

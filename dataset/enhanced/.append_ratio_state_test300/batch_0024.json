@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Natural Landscapes:24",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A glacial cirque opens into a vast alpine basin of hard granite walls, stacked talus fans, and knife-edged ridgelines dusted with late spring snow. In the center, a dark turquoise tarn sits in a bedrock hollow, its shoreline broken by angular boulders and sparse sedge. Meltwater threads through polished channels and disappears beneath old snow bridges near the far moraine. The terrain layers clearly from foreground scree to distant serrated peaks, with thin cloud bands snagging on the upper slopes and cold, dry air giving every fracture and striation a crisp, physically believable relief.",
+    "length": 614
+  },
+  {
+    "id": "test:Natural Landscapes:25",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A volcanic coast curves around a black basalt cove where clear green water deepens to cobalt beyond the reef shelf. Hexagonal columns rise from the shore in uneven tiers, their wet faces reflecting silver daylight between bursts of surf. Sheets of water slide back through tide pools, revealing pebbles, trapped foam, and submerged rock ledges distorted by refraction. A narrow waterfall spills from a fern-lined cleft into the inlet, throwing fine mist that catches the light. Farther out, long swells arrive in clean sets, breaking into white spray against the outer rocks while calmer water mirrors the cloud-streaked sky.",
+    "length": 645
+  },
+  {
+    "id": "test:Natural Landscapes:26",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A broad river valley in late autumn stretches beneath a shifting storm front, with tawny grasslands, dark conifer belts, and distant snowline all visible in one continuous terrain sweep. Low rain curtains drift across the middle distance, partially veiling a braided river whose channels flash dull steel where brief sunlight breaks through. On the near floodplain, shallow pools tremble under gusts and reflect alternating bands of blue opening sky and charcoal cloud. The light changes minute by minute, warming the ochre banks, then cooling them again, while fresh wind combs through reeds and carries fine mist off the water.",
+    "length": 646
+  },
+  {
+    "id": "test:Natural Landscapes:27",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. An arid badlands escarpment rises in stepped layers of sandstone, marl, and rust-red clay, carved into gullies, buttes, and narrow fins by long erosion. The foreground shows cracked earth and scattered gypsum fragments leading toward a maze of ridges with sharp shadow lines that reveal each fold and undercut. Farther back, pale strata tilt at different angles, exposing sediment bands and collapsed scree aprons at the base of taller walls. A dry wash snakes through the basin, its channel floor smoother and lighter from occasional flash floods. Overhead, a high sun under thin haze keeps the air bright yet dusty, with distant mesas fading softly into the horizon.",
+    "length": 686
+  }
+]

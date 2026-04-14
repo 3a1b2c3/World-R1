@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Fantasy and Surrealism:40",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. At the lip of an impossible canyon, terraces of black stone descend toward a radiant mist with no visible floor. Slender trees grow upside down from suspended arches, their silver roots braided into the air like chandeliers. A river of light pours upward through the chasm, splitting around hovering boulders etched with faint constellations. Narrow bridges curve in elegant defiance across the gap, always meeting solid land despite the warped depth. Far below and somehow also ahead, a sunlike halo burns inside the void, bathing the scene in amber, violet, and pale blue symbols.",
+    "length": 598
+  },
+  {
+    "id": "train:Fantasy and Surrealism:41",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A small circular courtyard of white marble rests at the center of a dreamlike world, with a still pool reflecting a sky that contains another version of the same courtyard. Around it, stairways rise and descend into open air, yet each connects cleanly to ring-shaped gardens, tilted cloisters, and distant houses folded along impossible angles. Cypress trees grow from vertical walls, their shadows falling across surfaces that behave like ground. As the wider arrangement reveals itself, the place resolves into a coherent labyrinth suspended over clouds, lit by a calm moon nested inside a larger translucent moon.",
+    "length": 633
+  },
+  {
+    "id": "train:Fantasy and Surrealism:42",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A chain of floating islands hangs above a copper storm layer, each mass anchored to the others by aqueducts, stair bridges, and enormous bronze chains that sag with believable weight. On the nearest island, a crescent citadel rises from terraced gardens; beyond it, an observatory dome and a cluster of spired dwellings step neatly across separate fragments of land. Water spills from high canals into open sky, breaking into glittering vapor before reaching lower platforms. The arrangement forms a legible aerial city, with sunlit stone, drifting banners, and deep gaps that expose immense vertical scale.",
+    "length": 625
+  },
+  {
+    "id": "train:Fantasy and Surrealism:43",
+    "target_file": "train.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A forest of towering crystal trunks stands along the edge of a silent abyss, where layered cliffs bend into geometric folds and vanish into darkness. Between the trees, ribbons of luminous pollen drift in straight bands as if guided by hidden currents. The ground is paved with moss, slate, and mirror-smooth pools that reflect a second landscape upside down: inverted hills, hanging roots, and a distant doorway cut into empty space. Far across the void, thin beams of gold descend from no visible source, striking select stones and turning them into glowing markers within the violet dusk.",
+    "length": 610
+  }
+]

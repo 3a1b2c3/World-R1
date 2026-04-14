@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:17",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A silent dream plaza hangs over a starless mist, paved in pale hexagonal stone that bends upward at its far edge into the underside of an archway, as if floor and ceiling share one continuous surface. Slender staircases descend from nowhere and meet perfectly at a suspended fountain where water rises in ribbons before flattening into a hovering mirror. Doorways open onto courtyards that should not fit inside the surrounding walls, yet their columns align with exact mathematical rhythm. Soft amber lanterns drift in straight civic rows, giving the impossible city the order of a real place.",
+    "length": 612
+  },
+  {
+    "id": "test:Fantasy and Surrealism:18",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. At the near edge, a weathered observatory clings to a floating island of black basalt veined with gold, its brass dome half open beneath a lavender sky. Beyond it, successive layers of airborne citadels recede into depth: terraced gardens wrapped around inverted towers, bridges suspended between islands by chains of crystal, and a distant ring-shaped metropolis encircling an empty core. Waterfalls spill from several landmasses and dissolve into luminous dust before reaching the abyss. Every structure shares a believable masonry logic, with buttresses, stairs, docks, and plazas aligned across the impossible altitude.",
+    "length": 666
+  },
+  {
+    "id": "test:Fantasy and Surrealism:19",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A narrow ledge of red stone overlooks a canyon that splits into impossible branches, each ravine dropping toward a moonlit void instead of a valley floor. Petrified trees rise from the cliffs with trunks of translucent salt, their canopies made of slow-turning glass leaves that cast moving prisms onto the rock. Across the gulf, door-sized monoliths stand in measured intervals, each emitting a different band of symbolic light—gold, blue, crimson—forming a readable path through the wilderness. Far below, a river of stars flows sideways between the canyon walls, obeying its own hidden gravity while every cliff face remains crisply structured.",
+    "length": 692
+  },
+  {
+    "id": "test:Fantasy and Surrealism:20",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A ceremonial avenue extends through a sleeping metropolis where logic has been gently rewritten rather than broken. On both sides, elegant townhouses rise in clean perspective, yet their upper stories fold inward to form a shared canopy of rooms suspended above the street. Balconies connect across open air with bridges too thin to seem load-bearing, though each one meets its anchors with convincing joints and shadow. Ahead, a central tower appears ordinary at first, then reveals nested courtyards stacked inside its hollow core, each containing a smaller sunrise. Fine dust glows along the paving seams, guiding the eye toward the impossible center.",
+    "length": 670
+  }
+]

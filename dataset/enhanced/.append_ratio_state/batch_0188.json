@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Urban and Architectural:0",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A dense financial district at blue hour, centered on a long avenue lined with glass towers, older stone facades, and precise rows of streetlights receding toward a bright intersection far ahead. Wet asphalt mirrors traffic signals, bus stop shelters, and the gridded windows overhead. Crosswalk stripes, curb edges, tram rails, and lane markings converge cleanly into deep vanishing points. Sparse pedestrians wait under awnings, delivery vans hug the curb, and illuminated office floors reveal desks and structural columns, giving the street canyon measured scale and rigorous perspective.",
+    "length": 606
+  },
+  {
+    "id": "test:Urban and Architectural:1",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. An expansive contemporary museum atrium organized with strict symmetry: pale terrazzo floors, tall concrete walls, ribbon skylights, and stacked balconies linked by glass balustrades. In the near foreground, a sculptural information desk sits beside polished turnstiles and a patterned stone inlay; farther back, escalators rise toward upper galleries while a café and bookshop occupy recessed bays. Ceiling trusses, floor joints, elevator doors, and handrails remain perfectly aligned, and scattered visitors provide scale without disrupting the disciplined geometry of the interior.",
+    "length": 601
+  },
+  {
+    "id": "test:Urban and Architectural:2",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A major rail terminal and bridge approach rendered with exact industrial order: multiple tracks run parallel beneath a canopy of steel trusses, signal gantries, suspended power lines, and repeating concrete pillars. To one side, a service platform holds maintenance carts, stacked sleepers, safety barriers, and cabinets marked with hazard stripes; beyond, a river crossing carries commuter trains toward a skyline of warehouses and utility stacks. Platform edges, tactile strips, overhead beams, drainage channels, and catenary supports create layered depth and uncompromising linear perspective.",
+    "length": 615
+  },
+  {
+    "id": "test:Urban and Architectural:3",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A downtown boulevard bordered by mixed-era high-rises, from reflective curtain-wall offices to brick loft buildings with fire escapes and rooftop water tanks. The composition opens with a bus shelter, bike racks, newspaper boxes, and a corner storefront glowing beneath a steel canopy, then extends across multiple lanes of traffic toward a distant cluster of taller towers. Median plantings, curb lines, crosswalk grids, parking garage entrances, and repeating window bands stay crisp and rectilinear. Evening light catches facades unevenly, while pedestrians and taxis establish believable urban scale.",
+    "length": 623
+  }
+]

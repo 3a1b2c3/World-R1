@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Fantasy and Surrealism:45",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A ring of floating basalt islands hangs above a moonlit cloud sea, each mass tethered by chains of glowing runes to a central alabaster citadel. The citadel rises in stacked terraces, bridges arching between impossible heights, with an open observatory at the summit where a brass armillary turns around a captive star. Smaller shrines, water channels, and hanging gardens cling to the outer islands, all aligned on a clear radial plan so the drifting structures feel engineered rather than random. Sapphire mist spills through gaps, while distant fragments of city continue the circle into the abyss.",
+    "length": 621
+  },
+  {
+    "id": "test:Fantasy and Surrealism:46",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A monumental canyon opens beneath a violet sky, its walls formed from layered stone that folds into the trunks of a petrified forest, as if cliff and woodland were grown from one geometry. Across the ravine, suspended pathways of root and polished obsidian connect ledges that hover a few meters apart over a lightless void. In the depths, a narrow river of pale gold radiance flows without water, casting symbolic beams upward through the trees and carving crisp planes of illumination across bark, rock, and drifting pollen. Every impossible element follows a readable structure, like a dream drafted by an architect.",
+    "length": 636
+  },
+  {
+    "id": "test:Fantasy and Surrealism:47",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. An immense interior plaza stretches under a ceiling of stars enclosed within a cube larger on the inside than its exterior shell suggests. Marble stairways descend into the air and arrive at terraces that should not meet, yet each landing aligns perfectly with colonnades, reflecting pools, and doorways set into freestanding walls. Above the plaza, whole townhouse facades hang upside down, their windows glowing warmly, with laundry and lanterns oriented toward an unseen gravity of their own. A canal runs across the stone floor, then bends upward along an arch and disappears overhead, while the overall layout remains symmetrical and navigable, lucid despite its impossible rules.",
+    "length": 703
+  },
+  {
+    "id": "test:Fantasy and Surrealism:48",
+    "target_file": "test.txt",
+    "category": "Fantasy and Surrealism",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. At the center of a vast sky gulf, a tiered city stands across several levitating islands arranged by altitude like a ceremonial map. The nearest island bears a weathered gatehouse and cypress garden, beyond it a larger mass supports a fortified citadel of pale stone, and farther still an observatory crowns the highest rock with crystal domes and suspended astrolabes. Narrow bridges, chain ferries, and aqueducts leap the void in carefully believable paths, giving the airborne settlement civic logic. Underneath, waterfalls break into glittering vapor before reaching the clouds, and tiny beacon towers mark routes between the drifting districts.",
+    "length": 692
+  }
+]

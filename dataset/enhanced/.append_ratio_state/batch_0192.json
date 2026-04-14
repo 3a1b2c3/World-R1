@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:0",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. On a walnut writing desk, a deliberate arrangement sits in a shallow pool of morning light: a brass compass half open beside a folded cream envelope sealed with dark red wax, a fountain pen with a tiny bead of dried ink on the nib, round spectacles catching a thin highlight, and a watchmaker’s loupe resting on a sheet of graph paper. Dust fibers cling to the paper edges, faint fingerprints soften the brass, and the wax seal shows brittle cracks. In the rear, stacked notebooks and a chipped ceramic inkwell fall into gentle blur, making the central objects feel tactile, measured, and exact.",
+    "length": 611
+  },
+  {
+    "id": "test:Micro and Still Life:1",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. At first the scene reads like an alien terrain: translucent pollen grains clumped among branching mold filaments, a lace of crystalline mineral deposits, and a torn edge of leaf tissue veined like stained glass. Moisture beads cling between structures, bending light into tiny bright crescents, while powdery spores and granular dust create scale ambiguity. As the space broadens, the biological and inorganic forms resolve together on a glass microscope slide, ringed by dried mounting medium, with handwritten specimen labels, a metal clip, and faint scratches across the laboratory surface.",
+    "length": 610
+  },
+  {
+    "id": "test:Micro and Still Life:2",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A row of tactile materials spans a dark studio table like a controlled comparison: frosted sea glass with softened edges, a cracked porcelain shard with blue underglaze, woven linen threaded with stray fibers, a slab of beeswax scored by a thumbnail, and a shallow puddle of clear resin creeping around iron filings. Light catches each surface differently—milky transmission through the glass, brittle glints in the crack network, matte fuzz in the weave, greasy warmth on the wax, and mirrorlike highlights trembling across the fluid. Fine grit, lint, and hairline scratches reinforce the scale and realism.",
+    "length": 626
+  },
+  {
+    "id": "test:Micro and Still Life:3",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. An exacting desktop arrangement is laid across a sheet of black drafting paper: a mechanical pencil disassembled into barrel, spring, and lead sleeve; three sharpened colored pencils aligned by length; a steel ruler with worn numerals; a binder clip casting a hard geometric shadow; and a small cube of kneaded eraser pressed with finger ridges. A ceramic cup with tea stain rings sits farther back beside curled tracing paper. Wood grain, chipped lacquer, graphite dust, and tiny nicks in the ruler edge stay crisp, while the layered spacing of objects creates clear depth and a studied sense of order.",
+    "length": 622
+  }
+]

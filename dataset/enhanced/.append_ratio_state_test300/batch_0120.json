@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:46",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A magnified landscape of lichen, quartz dust, and a thin slice of dried moss spreads across a black glass slide, arranged so ridged fungal cups rise on one side while crystalline grit and pale spores scatter toward the other. Moisture beads cling between branching filaments, catching cold white highlights. Tiny fractures in the mineral grains contrast with the velvety nap of the plant tissue. Depth falls off rapidly across overlapping forms, revealing parallax between foreground stalks, midground granules, and a soft field of translucent cells fading into darkness.",
+    "length": 588
+  },
+  {
+    "id": "test:Micro and Still Life:47",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A tabletop study begins at the edge of a cracked resin tile beside a fold of iridescent silk, then travels across a precise arrangement of tactile materials: brushed aluminum scored with hairline scratches, amber liquid pooled in a shallow glass dish, a strip of woven linen with lifted fibers, and a broken eggshell resting on damp slate. Light passes through the fluid and the thin shell, creating warm internal glow, while the metal stays cool and hard. Fine dust, tiny bubbles, and minute surface imperfections make each transition between textures unmistakably physical.",
+    "length": 593
+  },
+  {
+    "id": "test:Micro and Still Life:48",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. An orderly desktop still life sits on a walnut work surface: a fountain pen angled toward an open notebook, a brass compass, two paper clips, a torn postage stamp, a ceramic cup with a tea ring at its base, and a small watch gear placed deliberately near a folded letter. The arrangement narrows attention toward the center where ink has pooled in the paper fibers, revealing feathered edges and subtle embossing. Wood grain, oxidized metal, glazed ceramic, and cotton paper each hold distinct texture, with layered occlusion and soft falloff giving the scene a measured, evaluative clarity.",
+    "length": 607
+  },
+  {
+    "id": "test:Micro and Still Life:49",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. At first the scene reads as an abstract terrain of translucent membranes and jagged mineral ridges, where a pollen grain studded with tiny spikes rests beside a salt crystal cluster and a torn fragment of onion skin. As more of the specimen field becomes visible, relationships resolve: the biological forms lie on a laboratory slide dusted with starch particles, faint smears, and a drying crescent of fluid. The crystal edges stay angular and bright, while the organic tissues wrinkle, sag, and glow softly. Multiple depth layers separate sharply, making scale cues precise and slightly clinical.",
+    "length": 615
+  }
+]

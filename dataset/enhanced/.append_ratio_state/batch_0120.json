@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Micro and Still Life:61",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A magnified study of a split geode beside a shallow glass dish holding damp moss and a pale lichen fragment, arranged on matte black slate. Crystal points rise from the geode interior with smoky translucency, tiny chips catching cold highlights. Beads of condensation cling to the dish rim, while the moss reveals curled filaments, spores, and faint soil grains trapped between stems. The lichen surface looks papery and cracked, almost cellular. Light grazes the forms to separate mineral hardness from organic softness, with layered depth between foreground grit, midground specimens, and a softly blurred laboratory backdrop.",
+    "length": 648
+  },
+  {
+    "id": "train:Micro and Still Life:62",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A tabletop macro arrangement built from tactile contrasts: a torn strip of frosted plastic draped over brushed aluminum, a square of dark woven fabric, a chipped ceramic tile, and a shallow puddle of clear glycerin spreading across the surface. Fine scratches run in different directions through the metal, the fabric threads lift unevenly at the edges, and hairline cracks branch through the glaze of the tile. The glycerin forms a thick meniscus that bends reflections and traps tiny air bubbles. Cool window light passes through the plastic, turning its edge luminous while every surface keeps distinct grain, sheen, and thickness.",
+    "length": 651
+  },
+  {
+    "id": "train:Micro and Still Life:63",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. An orderly desktop still life stretches across a walnut writing table: a brass compass, a sharpened graphite pencil dusted with cedar crumbs, a folded cream envelope sealed with red wax, a pocket watch on a linen square, and three paper clips scattered near a small stack of index cards. Each object sits with deliberate spacing so the materials read clearly against one another. The brass shows fingerprints and faint tarnish, the pencil lacquer carries minute nicks, the wax seal has ridged impressions, and the linen weave catches soft side light. Depth builds gradually from crisp foreground details to a gently dim study room beyond.",
+    "length": 656
+  },
+  {
+    "id": "train:Micro and Still Life:64",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A scientific macro tableau centers on a thin microscope slide resting above a dark rubber mat, holding a translucent onion epidermis sample beside a fleck of oxidized copper and a dusting of crystalline salt. The onion cells appear as a neat grid of faint rectangular chambers filled with watery sheen, while the copper fragment blooms with green corrosion and rough metallic pits. Salt grains stand like tiny faceted blocks, some partly dissolved by a minuscule droplet that spreads tension along the glass. Illumination reveals layered transparency, refracted edges, and precise scale shifts from the slide corners to the specimen details.",
+    "length": 657
+  }
+]

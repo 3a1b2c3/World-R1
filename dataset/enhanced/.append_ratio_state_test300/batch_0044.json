@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Urban and Architectural:3",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A dense downtown corridor at blue hour, with a broad avenue running between glass office towers, older limestone facades, and a recessed plaza opening on one side. Streetcar rails glint in wet asphalt, lane markings converge cleanly toward a distant intersection, and stacked fire escapes, traffic lights, utility lines, and storefront canopies create layered depth. Reflections ripple across curtain walls while tiny figures wait at crosswalks under umbrellas. The far skyline steps upward in believable scale, with rooftop water tanks, setback terraces, and illuminated windows resolving into crisp vanishing lines.",
+    "length": 636
+  },
+  {
+    "id": "test:Urban and Architectural:4",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. Inside a vast civic atrium, a circular information desk anchors the center beneath a skylit ceiling of steel ribs and glass panels. Concentric floor inlays, evenly spaced columns, suspended wayfinding signs, escalators rising on opposite sides, and mezzanine railings create a rigorous radial layout with measurable depth. Polished stone reflects pools of soft daylight, while planters, benches, and a few travelers with luggage establish human scale. Storefronts and corridor openings recede in orderly intervals, and every balustrade, tile seam, and ceiling beam remains straight and structurally plausible.",
+    "length": 628
+  },
+  {
+    "id": "test:Urban and Architectural:5",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A major rail terminal concourse opens beneath a high arched roof of trusses, clerestory glass, and suspended departure boards, with parallel platforms extending behind a central clock tower. Tracks, tactile paving strips, safety lines, benches, signal cabinets, and catenary supports lock the geometry into a disciplined grid. A stationary train with brushed metal sides reflects the interior structure, while service stairs, overhead walkways, and maintenance doors add industrial specificity. Commuters disperse in believable clusters, and the layered network of beams, signs, and platform edges maintains precise scale from foreground to far end.",
+    "length": 669
+  },
+  {
+    "id": "test:Urban and Architectural:6",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A long commercial boulevard unfolds from a shaded foreground corner toward a bright financial district, giving strong one-point perspective through repeating streetlights, median trees, bus shelters, and aligned tower facades. On the near block, brick storefronts with awnings, loading bays, and vertical signage transition into taller steel-and-glass buildings with setbacks and rooftop mechanical units. Crosswalk stripes, bike-lane markings, curb cuts, and drainage grates keep the street plane exact. Delivery vans, taxis, and pedestrians populate the sidewalks naturally, while the distant skyline stacks into clean silhouettes against a hazy late-afternoon sky.",
+    "length": 684
+  }
+]

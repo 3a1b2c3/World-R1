@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Natural Landscapes:16",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. At first light, a glacial lake lies beneath steep granite walls streaked with old snow and mineral veins. Near the foreground, clear shallows reveal rounded stones, submerged branches, and wavering ribbons of aquatic grass under rippling water. A narrow gravel shoreline curves away into scattered driftwood and pockets of wet sand that mirror the pale sky. Farther across, a waterfall descends in segmented tiers, throwing fine mist that catches the sun as wind combs the surface into overlapping bands. Reflections of dark pines and cold cliffs break and reform with each pulse of spray.",
+    "length": 606
+  },
+  {
+    "id": "test:Natural Landscapes:17",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A broad alpine valley opens under late autumn weather, with dark spruce forests climbing toward ridgelines patched by the season’s first snow. In the lower meadows, frost clings to tawny grasses and shallow braided streams, while low fog gathers in depressions and slowly thins. Overhead, a broken ceiling of storm clouds parts unevenly, letting warm sunset light spill through in angled shafts that ignite distant slopes and leave the valley floor in blue shadow. Fine drizzle lingers near one edge of the basin, and the sky shifts from bruised gray to amber, then to a clear, cold band of evening.",
+    "length": 617
+  },
+  {
+    "id": "test:Natural Landscapes:18",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. A desert escarpment rises from a maze of eroded badlands, where layered sandstone, shale, and pale gypsum form terraces, gullies, and knife-edged ridges. In the nearer ground, cracked clay flats are cut by dry channels that converge toward a shadowed basin. Beyond them, a tall butte stands apart, its caprock resisting erosion while softer bands below have slumped into talus fans and ribbed slopes. The wider terrain reveals repeating strata bent by ancient uplift, with sparse shrubs rooted in pockets of sediment. Haze softens the far mesas, emphasizing depth across the exposed geology.",
+    "length": 634
+  },
+  {
+    "id": "test:Natural Landscapes:19",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. Along a rugged volcanic coast, black basalt shelves descend into clear seawater where green tide pools hold anemones, shell fragments, and strands of kelp wavering beneath the surface. Thin sheets of incoming surf slide over the rock, turning mirror-smooth for a moment before collapsing into white lace and bursting spray. A crescent cove gathers translucent turquoise water that deepens to cobalt beyond the reef line, while wet stone reflects the cool sky in broken highlights. Sea stacks stand offshore in receding layers, and a salt haze hangs above the horizon as waves keep reshaping the shoreline.",
+    "length": 650
+  }
+]

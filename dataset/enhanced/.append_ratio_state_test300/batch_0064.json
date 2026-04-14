@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Urban and Architectural:23",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A vast underground rail interchange at rush hour, built with severe geometric clarity: parallel platform edges, ribbed concrete columns, safety lines, overhead wayfinding boards, glass elevator shafts, and twin tracks converging into a distant tunnel. On the near side, stainless benches, tiled pillars, and a row of vending machines create layered depth; across the void, another platform mirrors the structure with slight asymmetries in signage and lighting. Polished stone floors catch reflections from amber service lamps and cool fluorescent strips, while commuters cluster in believable pockets that reinforce scale and spacing.",
+    "length": 653
+  },
+  {
+    "id": "test:Urban and Architectural:24",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A dense downtown intersection at blue hour, organized around a mid-rise brick clock tower anchoring the center while glass office slabs and stepped residential towers wrap around it in a precise canyon of façades. Crosswalk stripes, tram rails, curb extensions, bike racks, bus shelters, and traffic signals create a rigorous street grid with clean vanishing lines. Storefront windows glow under awnings, rooftop mechanical units silhouette against the fading sky, and a distant skyline stacks in parallax beyond the avenue. Wet asphalt mirrors neon signs and headlight streaks without breaking the rectilinear order of the scene.",
+    "length": 649
+  },
+  {
+    "id": "test:Urban and Architectural:25",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A grand public library atrium with a circular information desk at its core, surrounded by four levels of rectilinear balconies, book stacks, reading alcoves, and exposed structural beams. The central void rises to a patterned skylight, and every floor edge, handrail, and column remains crisp and plumb, giving the interior a demanding sense of measured symmetry. Warm wood shelving contrasts with pale stone flooring, brass directory plaques, and glass balustrades. Study tables are arranged in disciplined rows, elevators nest in the corners, and hanging pendant lights mark vertical depth through the open volume.",
+    "length": 636
+  },
+  {
+    "id": "test:Urban and Architectural:26",
+    "target_file": "test.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. An immense airport terminal concourse stretching laterally beneath a vaulted steel-and-glass roof, with repeating trusses, suspended gate signs, security barriers, moving walkways, and long bands of clerestory light guiding the eye across the hall. Check-in counters and self-service kiosks occupy the foreground, then the space opens into waiting zones with aligned seating, charging stations, and floor-to-ceiling windows overlooking parked aircraft and service vehicles. The polished terrazzo floor reflects structural lines, luggage carts, and pools of daylight, while distant jet bridges, retail fronts, and ceiling ducts maintain strict perspective continuity from end to end.",
+    "length": 699
+  }
+]

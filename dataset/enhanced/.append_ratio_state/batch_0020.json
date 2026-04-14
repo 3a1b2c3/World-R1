@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Natural Landscapes:20",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A high alpine valley in late autumn opens beneath layered granite walls, with dark spruce bands descending to a braided river and frost-silvered meadow grasses. Low clouds drag across the peaks while a weak sunrise begins to break through from the horizon, shifting the scene from cold blue pre-dawn into pale amber highlights on wet stone. Fine mist rises from the river bends, patches of old snow linger in shaded gullies, and distant drizzle softens the far ridgelines. The atmosphere feels crisp, windswept, and physically real, with subtle ripples in puddles and changing light across the terrain.",
+    "length": 618
+  },
+  {
+    "id": "train:Natural Landscapes:21",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. A narrow desert wash cuts through layered sandstone, beginning at a fractured shelf of reddish rock strewn with angular talus and sparse tufts of dry grass. Beyond it, the terrain reveals stepped mesas, eroded buttes, and a labyrinth of shallow ravines carved by flash floods over geologic time. Pale sediment bands alternate with iron-stained cliffs, and scattered boulders rest where ancient collapses left sharp debris fans. Heat haze softens the far horizon under a clear, high sky, emphasizing the scale progression from intimate rock texture to vast landform structure.",
+    "length": 592
+  },
+  {
+    "id": "train:Natural Landscapes:22",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A glacial lake sits beneath steep forested slopes, its near shoreline lined with smooth stones, half-submerged roots, and thin reeds bending in a light breeze. The water is exceptionally clear at the edge, revealing pebbles and wavering green weeds below the surface, then deepens to steel blue farther out where mountain reflections break into ripples. A meltwater stream enters from one side, carrying pale silt that feathers into the lake, while small wavelets strike the rocks with tiny bursts of spray. Across the basin, cliffs and conifers mirror in calmer patches between drifting bands of morning mist.",
+    "length": 628
+  },
+  {
+    "id": "train:Natural Landscapes:23",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A broad coastal heath in early spring stretches toward dark sea cliffs, with wet grasses, low gorse, and scattered standing stones emerging from recent rain. Bands of sunlight travel beneath a broken storm front, alternately igniting the green headlands and dimming them under passing shadow. Offshore, the ocean shifts from slate gray to silver where light touches the swells, and white surf detonates against black rock shelves below. Puddles in the foreground reflect racing clouds, gulls wheel in gusty air, and the whole landscape feels caught in a brief weather window between squall and clearing evening sky.",
+    "length": 634
+  }
+]

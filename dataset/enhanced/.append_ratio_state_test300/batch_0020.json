@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Natural Landscapes:20",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A high alpine basin just after a summer storm, with dark granite walls stepping back in clear layers toward a distant snowfield. The foreground is strewn with angular boulders, wet lichen, and shallow runoff channels that braid through thin meadow grass. Low cloud shreds drift across the middle slopes while a break in the overcast opens a band of amber evening light, igniting patches of tundra and leaving other terraces in cold blue shadow. Fine mist lifts from a tarn at the basin floor, and fresh rain still dimples its surface, so the whole valley shows a precise transition from storm to clearing.",
+    "length": 621
+  },
+  {
+    "id": "test:Natural Landscapes:21",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_out",
+    "prompt": "Camera pull out. At first the scene is dominated by a narrow slot of polished sandstone, its walls rising sheer with mineral streaks, undercut ledges, and pockets carved by flash floods. A ribbon of water threads through the base, slipping around chockstones and reflecting a pale slice of sky. As more of the terrain is revealed, the confined gorge opens into an immense desert plateau broken by mesas, talus fans, and dry tributary canyons etched across the bedrock. Farther still, layered cliffs step back into bluish haze, exposing the full geological structure of an arid basin shaped by uplift, fracture, and relentless erosion.",
+    "length": 634
+  },
+  {
+    "id": "test:Natural Landscapes:22",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. A cold coastal inlet at first light, where black basalt shelves descend in broken steps to clear tidal pools and a broad channel of steel-blue water. Kelp trails beneath the surface with visible depth and wavering distortion, while rounded stones along the shoreline gleam under a thin wash of receding foam. Offshore, small swells strike a jagged outcrop and burst into white spray that drifts briefly in the wind before falling back as glittering droplets. The sea mirrors bright gaps in the cloud deck but stays darker under the cliffs, creating shifting bands of reflection, transparency, and textured ripples across the inlet.",
+    "length": 649
+  },
+  {
+    "id": "test:Natural Landscapes:23",
+    "target_file": "test.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. An open tundra plain in late autumn beneath a vast unsettled sky, with shallow braided streams winding through frost-stiff sedge and patches of rust-colored moss. Low hills and scattered glacial erratics recede toward a distant mountain wall, their contours softened by veils of blowing snow. On one side of the horizon, dense slate clouds drag a curtain of precipitation across the peaks; on the other, a narrow opening near sunset spills weak gold light under the storm base. The ground alternates between silvered ice, dark wet soil, and wind-rippled water, making the weather shift legible across the entire landscape.",
+    "length": 641
+  }
+]

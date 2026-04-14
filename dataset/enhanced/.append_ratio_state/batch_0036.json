@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Urban and Architectural:3",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A dense downtown corridor at blue hour, lined with midrise brick lofts on one side and reflective glass towers on the other, all facades crisp with fire escapes, window grids, street signs, and recessed storefronts. Parallel parking bays, bike racks, delivery bollards, and a protected tram lane create layered depth across the avenue. Fresh rain leaves a thin sheen on the asphalt, catching neon pharmacy green, bus stop ads, and warm lobby light. Far ahead, the street narrows toward a clean vanishing point beneath a web of utility lines and distant rooftop water tanks.",
+    "length": 592
+  },
+  {
+    "id": "train:Urban and Architectural:4",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A grand contemporary museum atrium organized around a freestanding stone staircase, with polished concrete floors, tall white walls, and a rectangular skylight casting hard noon light in precise bands. Glass balustrades, slim steel columns, suspended wayfinding panels, and aligned door portals define a measured geometry. On the perimeter, quiet benches, ticket counters, and recessed gallery entrances add scale without clutter. Reflections on the floor remain subtle and believable, while the central stair mass anchors the space and reveals its depth, symmetry, and layered circulation.",
+    "length": 609
+  },
+  {
+    "id": "train:Urban and Architectural:5",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A vast railway terminal platform beneath an arched steel-and-glass train shed, centered on a stationary silver commuter train with ribbed sides, numbered doors, and illuminated destination boards. Repeating trusses, catenary lines, signal gantries, and platform canopies stack into disciplined industrial geometry. Cast iron columns rise from worn tactile paving, while benches, safety markings, luggage carts, and timetable kiosks provide human scale. Beyond the train, multiple tracks diverge toward maintenance sheds and a concrete overpass, with morning haze catching shafts of light through the roof glazing.",
+    "length": 633
+  },
+  {
+    "id": "train:Urban and Architectural:6",
+    "target_file": "train.txt",
+    "category": "Urban and Architectural",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. An elevated city overlook facing a layered skyline at sunset, where a foreground boulevard runs below between orderly rows of plane trees, traffic lights, and apartment blocks with stacked balconies. Across the river, a cluster of office towers, older masonry high-rises, rooftop mechanical units, and a slender communications mast step across the horizon with believable spacing and scale. A bridge spans the water with regular piers and lane markings clearly visible. Warm light skims window edges while long shadows define cornices, parapets, and the receding street grid between buildings.",
+    "length": 610
+  }
+]

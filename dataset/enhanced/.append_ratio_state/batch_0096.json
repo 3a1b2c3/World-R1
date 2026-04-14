@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Micro and Still Life:37",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A magnified study of a split lichen disk resting beside a sliver of oxidized copper on matte black glass. The lichen reveals pale green lobes dusted with granular soralia, tiny cup-like fruiting bodies, and faint moisture caught between ridges. Next to it, the copper surface blooms with turquoise corrosion crystals, pits, and hairline mineral veins. A few pollen grains cling to both surfaces, giving scale to the scene. Low raking light skims across the specimen edges, separating velvet, chalky, and metallic textures with crisp depth and believable micro shadows.",
+    "length": 588
+  },
+  {
+    "id": "train:Micro and Still Life:38",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A close study of layered materials arranged on a workbench: torn tracing paper, smoked glass, a strip of woven linen, and a shallow bead of clear resin creeping over scratched aluminum. The resin catches tiny air bubbles and distorts the fabric threads beneath it, while the glass edge glows softly with greenish thickness. Fine dust is trapped in the paper fibers, and the metal carries scuffs, oxidation specks, and shallow dents from use. Side light reveals translucency, weave tension, fluid surface adhesion, and the subtle transition from matte to glossy planes.",
+    "length": 585
+  },
+  {
+    "id": "train:Micro and Still Life:39",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. An orderly desktop composition of drafting tools and natural curiosities: a brass compass with worn knurling, a graphite stick shedding powder, three paper clips, a folded note with embossed fibers, and a small spiral shell placed near a porcelain ink dish stained at the rim. The objects sit on dark walnut with visible pores and faint circular watermarks. Their spacing forms a clear progression across the surface, allowing each material to read distinctly—cold metal, chalky graphite, brittle paper, glazed ceramic, and calcified shell—under soft window light with precise contact shadows.",
+    "length": 611
+  },
+  {
+    "id": "train:Micro and Still Life:40",
+    "target_file": "train.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "push_in",
+    "prompt": "Camera push in. A scientific macro tableau centered on a thin section of agate standing upright in a metal clamp, with a moss fragment and a dried insect wing laid flat nearby for comparison. The agate shows translucent bands of smoke gray, amber, and milky white, crossed by minute crystalline pockets that sparkle only at certain angles. The moss appears dense and humid, each tiny leaflet curling toward the light, while the wing reveals a lattice of veins and torn membrane fringes. The surrounding surface is neutral stone dusted with grit, giving the scene clinical clarity, scale contrast, and convincing depth.",
+    "length": 618
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Natural Landscapes:16",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. At dawn, a clear mountain lake lies beneath stepped granite walls and scattered pines, its near shallows revealing rounded stones and pale sand under transparent green-blue water. Small wind ripples break the mirror finish into bands of reflection, catching the pink sky and the dark silhouette of the opposite ridge. Along the shoreline, thin reeds bend beside damp driftwood and patches of lingering mist. Farther off, a narrow cascade enters from a cleft in the rock, throwing faint spray that brightens in the low sun and sends expanding rings across the glassy surface.",
+    "length": 591
+  },
+  {
+    "id": "train:Natural Landscapes:17",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. A broad alpine meadow opens below a line of dark firs and distant snow-dusted peaks as a spring storm clears. Wet grass glows deep emerald, broken by shallow puddles and remnant patches of old snow melting into braided rivulets. Overhead, the sky transitions from dense graphite cloud on one side to luminous gold and cool blue on the other, with low sunlight slipping through gaps and laying moving bands of brightness across the land. Fine rain still falls in the distance, softening the far mountains, while cold vapor drifts above the treetops and hints at dropping evening temperature.",
+    "length": 608
+  },
+  {
+    "id": "train:Natural Landscapes:18",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_left",
+    "prompt": "Camera move left, pull out, then pan left. A desert canyon unfolds from a foreground shelf of fractured sandstone into a vast maze of mesas, buttes, and eroded fins layered in rust, ochre, and pale ash. Angular ledges cast hard afternoon shadows that clarify each stratum, while dry gullies snake toward a distant basin hazed by heat. Near the rim, loose scree and sparse sage cling to cracks in the rock, emphasizing scale against the sheer drop. Far beyond, a natural arch bridges two weathered towers, and the land steps back through successive escarpments to a blue horizon, making the recession of space and geology unmistakable.",
+    "length": 634
+  },
+  {
+    "id": "train:Natural Landscapes:19",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pull_right",
+    "prompt": "Camera move right, pull out, then pan right. A rugged sea cove is enclosed by black basalt cliffs whose hexagonal columns descend to a crescent of wet stones and coarse sand. Incoming waves fold into the inlet, turning from translucent jade at the crest to white churn as they strike the rocks, sending salt spray into the air and leaving reflective sheen on every dark surface. Tide pools trapped between the boulders reveal seaweed, shell fragments, and distorted reflections of a bright overcast sky. Beyond the cove mouth, the open water heaves in longer swells, while foam lines trace the shoreline curve and receding water exposes glistening pebbles.",
+    "length": 656
+  }
+]

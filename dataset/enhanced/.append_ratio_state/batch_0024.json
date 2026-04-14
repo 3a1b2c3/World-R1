@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train:Natural Landscapes:24",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A broad desert canyon opens around a freestanding sandstone butte, its layered walls cut into terraces, alcoves, and vertical joints from long erosion. Dry gullies snake through the basin floor, scattered with talus cones, pale dust, and sparse sagebrush clinging to cracks in the rock. Far mesas step back in distinct bands, softened by bluish distance haze. The sun hangs low enough to rake warm light across the strata, revealing iron-red, ochre, and cream sediment layers, while cool shadows pool in clefts and overhangs. A few wind-carved arches and balanced boulders give the terrain a solid, weathered grandeur.",
+    "length": 637
+  },
+  {
+    "id": "train:Natural Landscapes:25",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. A clear alpine lake lies beneath a ring of granite peaks, its shoreline alternating between smooth glacial slabs, clusters of reeds, and crescent patches of wet pebbles darkened by the waterline. Near the edge, the shallows reveal rounded stones and wavering aquatic plants beneath transparent green-blue water, while farther out the surface deepens into a mirror that holds broken reflections of snow streaks and fir trees. A narrow cascade enters from a cleft in the rock, throwing mist and white foam where it strikes the lake. Gentle ripples spread outward, distorting the reflected mountains with believable, wind-driven motion.",
+    "length": 653
+  },
+  {
+    "id": "train:Natural Landscapes:26",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_left",
+    "prompt": "Camera pan left. A late-autumn valley stretches beneath a fast-changing sky, with harvested fields, dark hedgerows, and a winding river leading toward distant wooded hills. One side of the landscape still catches a band of amber sunlight breaking through thinning storm clouds, while the other lies under a cool curtain of rain that softens detail and turns the far slopes smoky blue-gray. Gusts comb through tawny grasses and nearly bare trees, sending a scatter of leaves across damp ground. Puddles in tractor ruts tremble with fresh drops, and low mist begins to gather above the river as the air shifts from passing squall to clearing evening calm.",
+    "length": 653
+  },
+  {
+    "id": "train:Natural Landscapes:27",
+    "target_file": "train.txt",
+    "category": "Natural Landscapes",
+    "camera_logic": "pan_right",
+    "prompt": "Camera pan right. An immense volcanic coastline rises from a dark sea, built from stacked basalt columns, collapsed lava shelves, and steep black cliffs scored by mineral stains. Hexagonal rock faces catch sidelong light, revealing crisp geometry where old flows cooled and fractured. Below, the surf crashes into narrow inlets and sea caves, leaving white foam trapped in tidal pools between jagged ledges. Inland, the terrain climbs into a cinder cone scattered with reddish scoria, sparse grass, and pockets of ash. Farther along the headland, natural bridges and broken spires mark older sections worn through by relentless waves, giving the whole coast a severe, tectonic weight.",
+    "length": 684
+  }
+]

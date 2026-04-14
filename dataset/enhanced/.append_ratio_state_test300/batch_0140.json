@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test:Micro and Still Life:66",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_left",
+    "prompt": "Camera move left. On a walnut desktop, a deliberate arrangement of drafting tools and found objects forms a layered miniature landscape: a brass compass with faint tarnish, stacked graph paper with soft curled corners, a chipped porcelain ink dish, three binder clips, a sharpened cedar pencil scattering powdery shavings, and a pocket watch chain looping between them. Dust motes cling along edges, fingerprints dull the metal, and tiny fibers catch in the paper grain. Warm window light rakes across the setup, revealing shallow height changes, overlapping silhouettes, and crisp parallax between foreground shavings and the watch links behind.",
+    "length": 646
+  },
+  {
+    "id": "test:Micro and Still Life:67",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "move_right",
+    "prompt": "Camera move right. A magnified study blends biology and mineral structure on a dark specimen tray: a pale moss capsule split open to reveal clustered spores, a translucent insect wing fragment with branching veins, a bead of water held by surface tension, and a fractured shard of quartz with cloudy inclusions. The tray is dusted with pollen, salt-like crystals, and a few rust flecks from old tweezers resting nearby. Cool sidelight passes through the membrane and droplet while the quartz throws hard glints, creating a demanding depth map of transparent, opaque, and semi-translucent forms at multiple scales.",
+    "length": 613
+  },
+  {
+    "id": "test:Micro and Still Life:68",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_left",
+    "prompt": "Camera orbit left. A close tabletop study centers on material contrast: a cracked slab of sea glass leaning against a scratched steel ruler, a torn strip of linen weave soaked at one end by amber resin, and a droplet of ink spreading through the fabric into branching capillaries. Beside them, a blistered layer of dried paint curls up from a ceramic tile, exposing chalky underlayers and tiny air bubbles trapped in the glaze. Light filters through the green glass edge and the resin, while the ruler reflects distorted highlights, making every scratch, thread, fracture line, and wet boundary vividly tactile and spatially legible.",
+    "length": 633
+  },
+  {
+    "id": "test:Micro and Still Life:69",
+    "target_file": "test.txt",
+    "category": "Micro and Still Life",
+    "camera_logic": "orbit_right",
+    "prompt": "Camera orbit right. An exacting desk arrangement pairs scientific order with domestic wear: a small apothecary bottle half filled with blue marbles, a folded measuring tape, two cream envelopes sealed with red wax, a tarnished silver thimble, and a sprig of dried lavender scattered across a blotter. The bottle stands near center while the tape arcs outward and the envelopes step back in height, creating a tiered composition with clear near and far relationships. Wax shows brittle edge fractures, the thimble is nicked and softly oxidized, paper fibers lift along the folds, and the marbles bend light into bright caustic flecks on the desk.",
+    "length": 645
+  }
+]
