@@ -1,18 +1,25 @@
-# World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
+<h1 align="center">World-R1: Reinforcing 3D Constraints for Text-to-Video Generation</h1>
 
 <p align="center">
-  Weijie Wang<sup>*&#8224;1,2</sup> &nbsp;
-  Xiaoxuan He<sup>*1</sup> &nbsp;
-  Youping Gu<sup>*1</sup> &nbsp;
-  Zeyu Zhang<sup>3</sup> &nbsp;
-  Yefei He<sup>1</sup> &nbsp;
-  Yanbo Ding<sup>2</sup> &nbsp;
-  Xirui Hu<sup>3</sup> &nbsp;
-  Donny Y. Chen<sup>3</sup> &nbsp;
-  Zhiyuan He<sup>2</sup> &nbsp;
-  Yuqing Yang<sup>2</sup> &nbsp;
-  Yifan Yang<sup>&#8225;2</sup> &nbsp;
-  Bohan Zhuang<sup>&#8225;1</sup>
+  <a href="main.pdf"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
+  <a href="https://aka.ms/world-r1"><img src="https://img.shields.io/badge/Project%20Page-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
+</p>
+
+<p align="center">
+  <a href="https://lhmd.top/">Weijie Wang</a><sup>1,2,*,&#8224;</sup> &nbsp;
+  <a href="https://github.com/Shredded-Pork">Xiaoxuan He</a><sup>1,*</sup> &nbsp;
+  <a href="https://github.com/Tacossp">Youping Gu</a><sup>1,*</sup> &nbsp;
+  <a href="https://www.microsoft.com/en-us/research/people/yifanyang/">Yifan Yang</a><sup>2,&#8225;</sup>
+  <br>
+  <a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a><sup>3</sup> &nbsp;
+  <a href="https://openreview.net/profile?id=~Yefei_He1">Yefei He</a><sup>1</sup> &nbsp;
+  <a href="https://github.com/DINGYANB">Yanbo Ding</a><sup>2</sup> &nbsp;
+  <a href="https://openreview.net/profile?id=~Xirui_Hu1">Xirui Hu</a><sup>3</sup>
+  <br>
+  <a href="https://donydchen.github.io/">Donny Y. Chen</a><sup>3</sup> &nbsp;
+  <a href="https://www.microsoft.com/en-us/research/people/zhiyuhe/">Zhiyuan He</a><sup>2</sup> &nbsp;
+  <a href="https://www.microsoft.com/en-us/research/people/yuqyang/">Yuqing Yang</a><sup>2</sup> &nbsp;
+  <a href="https://bohanzhuang.github.io/">Bohan Zhuang</a><sup>1,&#8225;</sup>
 </p>
 
 <p align="center">
@@ -28,10 +35,6 @@
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/world-r1">Project Page</a>
-</p>
-
-<p align="center">
   <img src="assets/teaser.png" alt="World-R1 teaser" width="100%">
 </p>
 
@@ -39,10 +42,10 @@ World-R1 aligns text-to-video generation with 3D constraints through reinforceme
 
 ## Highlights
 
-- RL post-training for video foundation models using Flow-GRPO, without architecture changes at inference time.
-- A composite reward that combines reconstruction fidelity, trajectory alignment, meta-view semantic scoring, and general visual quality.
-- A pure-text training set with about 3,000 prompts, including a dynamic subset for regularizing non-rigid motion.
-- Strong 3D consistency gains reported in the paper: `+10.23 dB` PSNR over Wan2.1-T2V-1.3B and `+7.91 dB` over Wan2.1-T2V-14B.
+- 3D-aware reinforcement learning aligns generated videos with geometric constraints through meta-view assessment, reconstruction consistency, and trajectory alignment rewards.
+- General visual quality is preserved by combining the 3D-aware reward with an aesthetic reward during Flow-GRPO-based post-training.
+- A periodic dynamic-only training phase regularizes the model with dynamic-scene prompts, improving motion diversity while retaining learned 3D consistency.
+- Camera-aware latent initialization converts text-specified camera motion into trajectory-guided noise wrapping, enabling implicit camera conditioning without changing the base video architecture.
 
 ## Method
 
@@ -51,41 +54,6 @@ World-R1 aligns text-to-video generation with 3D constraints through reinforceme
 </p>
 
 World-R1 first converts camera instructions in text prompts into explicit trajectories and injects the motion prior into the initial video latents through noise wrapping. During RL fine-tuning, the model is optimized with 3D-aware feedback from reconstruction and camera-control metrics, together with a general visual reward. A periodic dynamic-only phase prevents the model from overfitting to rigid static scenes.
-
-## Results
-
-| Model | PSNR ↑ | SSIM ↑ | LPIPS ↓ |
-| --- | ---: | ---: | ---: |
-| Wan2.1-T2V-1.3B | 17.40 | 0.550 | 0.467 |
-| World-R1-Small | 27.63 | 0.858 | 0.201 |
-| Wan2.1-T2V-14B | 19.76 | 0.629 | 0.405 |
-| World-R1-Large | 27.67 | 0.865 | 0.162 |
-
-## Release Contents
-
-- Training code, reward functions, and launch scripts for the World-R1 RL pipeline.
-- The 3D reward server and bundled `Depth Anything 3` integration used by the release.
-- Prompt-only dataset files under `dataset/final` and `dataset/enhanced`.
-- Utility scripts for inference, ablations, prompt processing, and noise-wrap analysis.
-- Third-party license files under `licenses/`.
-
-This repository does not include released World-R1 checkpoints. Base video model checkpoints should be obtained separately.
-
-## Repository Layout
-
-```text
-World-R1/
-├── config/
-├── dataset/
-│   ├── enhanced/
-│   └── final/
-├── flow_grpo/
-├── licenses/
-├── reward_server/
-├── scripts/
-├── assets/
-└── pyproject.toml
-```
 
 ## Setup
 
@@ -157,18 +125,6 @@ NUM_PROCESSES=6 \
 bash scripts/run_single_node.sh
 ```
 
-CogVideoX training:
-
-```bash
-MODEL_FAMILY=cogvideox \
-MODEL_PATH=THUDM/CogVideoX1.5-5B \
-TRAIN_CONFIG=config/world_r1.py:world_r1_cogvideox_5b \
-SERVER_VISIBLE_DEVICES=0,1 \
-TRAIN_VISIBLE_DEVICES=2,3,4,5,6,7 \
-NUM_PROCESSES=6 \
-bash scripts/run_single_node.sh
-```
-
 If reward servers are already running, launch training directly:
 
 ```bash
@@ -223,17 +179,17 @@ Unless a file states otherwise, the rest of this repository is covered by the ro
 If you find this repository useful, please cite:
 
 ```bibtex
-@misc{wang2026worldr1,
-  title={World-R1: Reinforcing 3D Constraints for Text-to-Video Generation},
+@article{wang2026worldr1,
   author={Weijie Wang and Xiaoxuan He and Youping Gu and Zeyu Zhang and Yefei He and Yanbo Ding and Xirui Hu and Donny Y. Chen and Zhiyuan He and Yuqing Yang and Yifan Yang and Bohan Zhuang},
+  title={World-R1: Reinforcing 3D Constraints for Text-to-Video Generation},
+  journal={arXiv preprint},
   year={2026},
-  note={ICML 2026}
 }
 ```
 
 ## Acknowledgements
 
-World-R1 builds on top of several strong open-source projects and model ecosystems, including Wan, CogVideoX, Flow-GRPO, and Depth Anything 3. We thank the original authors and maintainers for making those foundations available.
+World-R1 builds on top of several strong open-source projects and model ecosystems, including [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Flow-GRPO](https://github.com/yifan123/flow_grpo), [Depth Anything 3](https://github.com/ByteDance-Seed/Depth-Anything-3), and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL). We thank the original authors and maintainers for making those foundations available.
 
 ## Support
 
