@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/teaser.png" alt="World-R1 teaser" width="100%">
+  <img src="https://aka.ms/world-r1/assets/teaser.jepg" alt="World-R1 teaser" width="100%">
 </p>
 
 World-R1 aligns text-to-video generation with 3D constraints through reinforcement learning. Instead of changing the base video model architecture or relying on large-scale 3D supervision, it combines camera-aware latent initialization, 3D-aware rewards from pre-trained foundation models, and a periodic decoupled training strategy to improve geometric consistency while preserving visual quality and motion diversity.
@@ -42,7 +42,7 @@ World-R1 aligns text-to-video generation with 3D constraints through reinforceme
 ## Method
 
 <p align="center">
-  <img src="assets/pipeline.png" alt="World-R1 pipeline" width="100%">
+  <img src="[assets/](https://aka.ms/world-r1/assets/pipeline.png" alt="World-R1 pipeline" width="100%">
 </p>
 
 World-R1 first converts camera instructions in text prompts into explicit trajectories and injects the motion prior into the initial video latents through noise wrapping. During RL fine-tuning, the model is optimized with 3D-aware feedback from reconstruction and camera-control metrics, together with a general visual reward. A periodic dynamic-only phase prevents the model from overfitting to rigid static scenes.
