@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lhmd.top/">Weijie Wang</a><sup>1,2,*,&#8224;</sup> &nbsp;
+  <a href="https://lhmd.top/">Weijie Wang</a><sup>1,2,*&#8224;</sup> &nbsp;
   <a href="https://github.com/Shredded-Pork">Xiaoxuan He</a><sup>1,*</sup> &nbsp;
   <a href="https://github.com/Tacossp">Youping Gu</a><sup>1,*</sup> &nbsp;
   <a href="https://www.microsoft.com/en-us/research/people/yifanyang/">Yifan Yang</a><sup>2,&#8225;</sup>
