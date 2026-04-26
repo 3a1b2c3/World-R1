@@ -16,7 +16,7 @@
   <a href="https://openreview.net/profile?id=~Xirui_Hu1">Xirui Hu</a><sup>3</sup>
   <a href="https://donydchen.github.io/">Donny Y. Chen</a><sup>3</sup> &nbsp;
   <a href="https://www.microsoft.com/en-us/research/people/zhiyuhe/">Zhiyuan He</a><sup>2</sup> &nbsp;
-  <a href="https://www.microsoft.com/en-us/research/people/yuqyang/">Yuqing Yang</a><sup>2</sup> &nbsp;
+  <a href="https://www.microsoft.com/en-us/research/people/yuqyang/">Yuqing Yang</a><sup>2,&#8225;</sup> &nbsp;
   <a href="https://bohanzhuang.github.io/">Bohan Zhuang</a><sup>1,&#8225;</sup>
 </p>
 
