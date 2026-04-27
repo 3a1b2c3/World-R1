@@ -1,4 +1,8 @@
-<h1 align="center">World-R1: Reinforcing 3D Constraints for Text-to-Video Generation</h1>
+<p align="center">
+  <img src="https://aka.ms/world-r1/assets/banner.png" alt="World-R1" width="480"/>
+</p>
+
+<h1 align="center">Reinforcing 3D Constraints for Text-to-Video Generation</h1>
 
 <p align="center">
   <a href="main.pdf"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
