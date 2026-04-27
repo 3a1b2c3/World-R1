@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://microsoft.github.io/World-R1/assets/teaser.jpeg" alt="World-R1 teaser" width="100%">
+  <img src="https://microsoft.github.io/World-R1/assets/teaser.jpg" alt="World-R1 teaser" width="100%">
 </p>
 
 World-R1 aligns text-to-video generation with 3D constraints through reinforcement learning. Instead of changing the base video model architecture or relying on large-scale 3D supervision, it combines camera-aware latent initialization, 3D-aware rewards from pre-trained foundation models, and a periodic decoupled training strategy to improve geometric consistency while preserving visual quality and motion diversity.
