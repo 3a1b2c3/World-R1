@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://aka.ms/world-r1/assets/banner.png" alt="World-R1" width="480"/>
+  <img src="https://microsoft.github.io/World-R1/assets/banner.png" alt="World-R1" width="480"/>
 </p>
 
 <h1 align="center">Reinforcing 3D Constraints for Text-to-Video Generation</h1>
 
 <p align="center">
   <a href="main.pdf"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
-  <a href="https://aka.ms/world-r1"><img src="https://img.shields.io/badge/Project%20Page-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
+  <a href="https://microsoft.github.io/World-R1"><img src="https://img.shields.io/badge/Project%20Page-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://aka.ms/world-r1/assets/teaser.jepg" alt="World-R1 teaser" width="100%">
+  <img src="https://microsoft.github.io/World-R1/assets/teaser.jpeg" alt="World-R1 teaser" width="100%">
 </p>
 
 World-R1 aligns text-to-video generation with 3D constraints through reinforcement learning. Instead of changing the base video model architecture or relying on large-scale 3D supervision, it combines camera-aware latent initialization, 3D-aware rewards from pre-trained foundation models, and a periodic decoupled training strategy to improve geometric consistency while preserving visual quality and motion diversity.
@@ -46,7 +46,7 @@ World-R1 aligns text-to-video generation with 3D constraints through reinforceme
 ## Method
 
 <p align="center">
-  <img src="[assets/](https://aka.ms/world-r1/assets/pipeline.png" alt="World-R1 pipeline" width="100%">
+  <img src="https://microsoft.github.io/World-R1/assets/pipeline.jpg" alt="World-R1 pipeline" width="100%">
 </p>
 
 World-R1 first converts camera instructions in text prompts into explicit trajectories and injects the motion prior into the initial video latents through noise wrapping. During RL fine-tuning, the model is optimized with 3D-aware feedback from reconstruction and camera-control metrics, together with a general visual reward. A periodic dynamic-only phase prevents the model from overfitting to rigid static scenes.
