@@ -165,8 +165,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 The top-level `licenses/` directory is reserved for bundled third-party source code that remains under its upstream license:
 
-- `flow_grpo/` includes bundled or adapted `Flow-GRPO` code. See [`licenses/FLOW_GRPO_LICENSE`](licenses/FLOW_GRPO_LICENSE).
-- `reward_server/depth_anything_3/` includes bundled or modified `Depth Anything 3` code. See [`licenses/DEPTH_ANYTHING_3_LICENSE`](licenses/DEPTH_ANYTHING_3_LICENSE).
+- `flow_grpo/` includes adapted `Flow-GRPO` code. See [`licenses/FLOW_GRPO_LICENSE`](licenses/FLOW_GRPO_LICENSE).
+- `reward_server/depth_anything_3/` includes modified `Depth Anything 3` code. See [`licenses/DEPTH_ANYTHING_3_LICENSE`](licenses/DEPTH_ANYTHING_3_LICENSE).
 
 Unless a file states otherwise, the rest of this repository is covered by the root MIT license. Please review the third-party license files before redistributing derivative work based on the bundled upstream code.
 
