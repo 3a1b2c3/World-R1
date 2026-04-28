@@ -176,10 +176,10 @@ If you find this repository useful, please cite:
 
 ```bibtex
 @article{wang2026worldr1,
-  author={Weijie Wang and Xiaoxuan He and Youping Gu and Zeyu Zhang and Yefei He and Yanbo Ding and Xirui Hu and Donny Y. Chen and Zhiyuan He and Yuqing Yang and Yifan Yang and Bohan Zhuang},
   title={World-R1: Reinforcing 3D Constraints for Text-to-Video Generation},
-  journal={arXiv preprint},
-  year={2026},
+  author={Wang, Weijie and He, Xiaoxuan and Gu, Youping and Zhang, Zeyu and He, Yefei and Ding, Yanbo and Hu, Xirui and Chen, Donny Y. and He, Zhiyuan and Yang, Yuqing and Yang, Yifan and Zhuang, Bohan},
+  journal={arXiv preprint arXiv:2604.24764},
+  year={2026}
 }
 ```
 
