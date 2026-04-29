@@ -28,7 +28,7 @@ from reward_server.depth_anything_3.api import DepthAnything3
 from reward_server.depth_anything_3.model.utils.gs_renderer import run_renderer_in_chunk_w_trj_mode
 from reward_server.depth_anything_3.utils.visualize import vis_depth_map_tensor
 
-DEFAULT_RECONSTRUCTION_MODEL = "depth-anything/" + "D" + "A3-GIANT"
+DEFAULT_RECONSTRUCTION_MODEL = "depth-anything/" + "DA3-GIANT"
 
 class Reward3DBackend:
     """Generate 3D reward artifacts from a video rollout."""
