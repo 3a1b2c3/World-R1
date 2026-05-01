@@ -9,6 +9,7 @@
   <a href="https://aka.ms/world-r1"><img src="https://img.shields.io/badge/Project%20Page-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/microsoft/World-R1"><img src="https://img.shields.io/badge/Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Dataset"></a>
 </p>
+<h3 align="center">ICML 2026</h3>
 
 <p align="center">
   <a href="https://lhmd.top/">Weijie Wang</a><sup>1,2,*&#8224;</sup> &nbsp;
